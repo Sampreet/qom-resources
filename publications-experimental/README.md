@@ -1,6 +1,6 @@
 # Experimental Quantum Optomechanics
 
-> A list of of experimental publications exploring various configurations in quantum optomechanics.
+> A list of of experimental publications exploring various configurations in quantum optomechanics
 
 ## Cantilevers
 
@@ -26,6 +26,10 @@
 
 * N. R. Bernier, L. D. Toth, A. Koottandavida, M. A. Ioannou, D. Malz, A. Nunnenkamp, A. K. Feofanov and T. J. Kippenberg, *Nonreciprocal Reconfigurable Microwave Optomechanical Circuit*, [Nat. Commun. **8**, 604](https://doi.org/10.1038/s41467-017-00447-1) (2017)
 
+## Fabry-Perot Resonators
+
+* V. B. Braginskii, A. B. Manukin and M. Yu. Tikhonov, *Investigation of Dissipative Ponderomotive Effects of Electromagnetic Radiation*, [J. Exp. Theor. Phys. **31**, 829](http://www.jetp.ac.ru/cgi-bin/e/index/e/31/5/p829?a=list) (1969)
+
 ## Ions
 
 * Ch. Schneider, M. Enderlein, T. Huber and T. Schaetz, *Optical Trapping of an Ion*, [Nature Photon. **4**, 772](https://doi.org/10.1038/nphoton.2010.236) (2010)
@@ -42,20 +46,6 @@
 
 * E. Verhagen, S. Deleglise, S. Weis, A. Schliesser and T. J. Kippenberg, *Quantum-coherent Coupling of a Mechanical Oscillator to an Optical Cavity Mode*, [Nature 482, 63](https://doi.org/10.1038/nature10787) (2012)
 
-## Fabry-Perot Resonators
-
-* V. B. Braginskii, A. B. Manukin and M. Yu. Tikhonov, *Investigation of Dissipative Ponderomotive Effects of Electromagnetic Radiation*, [J. Exp. Theor. Phys. **31**, 829](http://www.jetp.ac.ru/cgi-bin/e/index/e/31/5/p829?a=list) (1969)
-
-## Nanoparticles
-
-* V. Jain, J. Gieseler, C. Moritz, C. Dellago, R. Quidant and L. Novotny, *Direct Measurement of Photon Recoil from a Levitated Nanoparticle*, [Phys. Rev. Lett. **116**, 243601](https://doi.org/10.1103/PhysRevLett.116.243601) (2016)
-
-## Photonic Crystals
-
-* M. Eichenfield, J. Chan, R. M. Camacho, K. J. Vahala and O. Painter, *Optomechanical Crystals*, [Nature **462**, 78](https://doi.org/10.1038/nature08524) (2009)
-
-* S. M. Meenehan, J. D. Cohen, S. Groblacher, J. T. Hill, A. H. Safavi-Naeini, M. Aspelmeyer and O. Painter, *Silicon Optomechanical Crystal Resonator at Millikelvin Temperatures*, [PRA **90**, 011803](https://doi.org/10.1103/PhysRevA.90.011803) (2014)
-
 ## Nanobeams
 
 * C. A. Regal, J. D. Teufel and K. W. Lehnert, *Measuring Nanomechanical Motion with a Microwave Cavity Interferometer*, [Nat. Phys. 4, 555](https://doi.org/10.1038/nphys974) (2008)
@@ -68,3 +58,14 @@
 
 * M. Pernpeintner, T. Faust, F. Hocke, J. P. Kotthaus, E. M. Weig, H. Huebl and R. Gross, *Circuit Electromechanics with a Non-metallized Nanobeam*, [Appl. Phys. Lett. **105**, 123106](https://doi.org/10.1063/1.4896419) (2014)
 
+* D. Bothner, S. Yanai, A. Iniguuz-Rabago, M. Yaun, Y. M. Blanter and G. A . Steele, *Cavity Electromechanics with Parametric Mechanical Driving*, [Nat. Commun. **11**, 1589](https://doi.org/10.1038/s41467-020-15389-4) (2020).
+
+## Nanoparticles
+
+* V. Jain, J. Gieseler, C. Moritz, C. Dellago, R. Quidant and L. Novotny, *Direct Measurement of Photon Recoil from a Levitated Nanoparticle*, [Phys. Rev. Lett. **116**, 243601](https://doi.org/10.1103/PhysRevLett.116.243601) (2016)
+
+## Photonic Crystals
+
+* M. Eichenfield, J. Chan, R. M. Camacho, K. J. Vahala and O. Painter, *Optomechanical Crystals*, [Nature **462**, 78](https://doi.org/10.1038/nature08524) (2009)
+
+* S. M. Meenehan, J. D. Cohen, S. Groblacher, J. T. Hill, A. H. Safavi-Naeini, M. Aspelmeyer and O. Painter, *Silicon Optomechanical Crystal Resonator at Millikelvin Temperatures*, [PRA **90**, 011803](https://doi.org/10.1103/PhysRevA.90.011803) (2014)

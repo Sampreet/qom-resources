@@ -86,6 +86,8 @@
 
 * V. B. Braginskii, A. B. Manukin and M. Yu. Tikhonov, *Investigation of Dissipative Ponderomotive Effects of Electromagnetic Radiation*, [J. Exp. Theor. Phys. **31**, 829](http://www.jetp.ac.ru/cgi-bin/e/index/e/31/5/p829?a=list) (1969)
 
+* A. Abramovici, W. E. Althouse, R. W. P. Drever, Y. Gursel, S. Kawamura, F. J. Raab, D. Shoemaker, L. Sievers, R. E. Spero, K. S. Thorne, R. E. Vogt, R. Weiss, S. E. Whitcomb and M. E. Zucker, *LIGO: The Laser Interferometer Gravitational-wave Observatory*, [Science **256**, 325](https://doi.org/10.1126/science.256.5055.325) (1992)
+
 * S. Groblacher, J. B. Hertzberg, M. R. Vanner, G. D. Cole, S. Gigan, K. C. Schwab and M. Aspelmeyer, *Demonstration of an Ultracold Micro-optomechanical Oscillator in a Cryogenic Cavity*, [Nat. Phys. **5**, 485](https://doi.org/10.1038/nphys1301) (2009)
 
 * S. Groblacher, K. Hammerer, M. R. Vanner and M. Aspelmeyer, *Observation of Strong Coupling between a Micromechanical Resonator and an Optical Cavity Field*, [Nature **460**, 724](https://doi.org/10.1038/nature08171) (2009)
@@ -105,6 +107,8 @@
 * H. Guo, M. Karpov, E. Lucas, A. Kordts, M. H. P. Pfeiffer, V. Brasch, G. Lihachev, V. E. Lobanov, M. L. Gorodetsky and T. J. Kippenberg, *Universal Dynamics and Deterministic Switching of Dissipative Kerr Solitons in Optical Microresonators*, [Nat. Phys. **13**, 94](https://doi.org/10.1038/nphys3893) (2017)
 
 ## Toroids
+
+* S. Weis, R. Riviere, S. Deleglise, E. Gavartin, O. Arcizet, A. Schliesser and T. J. Kippenberg, *Optomechanically Induced Transparency*, [Science **330**, 1520](https://doi.org/10.1126/science.1195596) (2010)
 
 * E. Verhagen, S. Deleglise, S. Weis, A. Schliesser and T. J. Kippenberg, *Quantum-coherent Coupling of a Mechanical Oscillator to an Optical Cavity Mode*, [Nature **482**, 63](https://doi.org/10.1038/nature10787) (2012)
 

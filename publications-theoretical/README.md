@@ -2,6 +2,10 @@
 
 > A list of theoretical publications exploring various phenomena in quantum optomechanics
 
+## Blockade
+
+* B. Sarma and A. K. Sarma, *Tunable Phonon Blockade in Weakly Nonlinear Coupled Mechanical Resonators via Coulomb Interaction*, [Sci. Rep. **8**, 14583](https://doi.org/10.1038/s41598-018-32743-1) (2018)
+
 ## Cooling
 
 * K. V. Kepesidis, T. J. Milburn, J. Huber, K. G. Mais, S. Rotter and P. Rabl, *PT-symmetry Breaking in the Steady State of Microscopic Gain-loss System*, [New J. Phys. **18**, 095003](https://doi.org/10.1088/1367-2630/18/9/095003) (2016)
@@ -42,6 +46,8 @@
 
 ## Multiple Phenomena
 
+* G. Manzano, F. Galve, G. L. Giorgi, E. Hernandez-Garcia and R. Zambrini, *Synchronization, Quantum Correlations and Entanglement in Oscillator Networks*, [Sci. Rep. **3**, 01439](https://doi.org/10.1038/srep01439) (2013)
+
 * S. Shahidani, M. H. Naderi, M. Soltanolkotabi and S. Barzanjeh, *Steady-state Entanglement, Cooling, and Tristability in a Nonlinear Optomechanical Cavity*, [J. Opt. Soc. Am. B **31**, 1087](https://doi.org/10.1364/JOSAB.31.001087) (2014)
 
 ## Optomechanically Induced Transparency
@@ -68,9 +74,13 @@
 
 * D. Witthaut, S. Wimberger, R. Burioni and M. Timme, *Classical Synchronization indicates Persistent Entanglement in Isolated Quantum Systems*, [Nat. Commun. **8**, 14829](https://doi.org/10.1038/ncomms14829) (2017)
 
+* N. Yang, A. Miranowicz, Y.-C. Liu, K. Xia and F. Nori, *Chaotic Synchronization of Two Optical Cavity Modes in Optomechanical Systems*, [Sci. Rep. **9**, 15874](https://doi.org/10.1038/s41598-019-51559-1) (2019)
+
 * Y. Kato and H. Nakao, *Enhancement of Quantum Synchronization via Continuous Measurement and Feedback Control*, [New J. Phys. **23**, 013007](https://doi.org/10.1088/1367-2630/abd7be) (2021)
 
 ## Theories and Reviews
+
+* V. B. Braginskii and A. B. Manukin, *Ponderomotive Effects of Electromagnetic Radiation*, [Sov. Phys. JEPT **25**, 653](http://www.jetp.ac.ru/cgi-bin/e/index/e/25/4/p653?a=list) (1967)
 
 * L. Ruby, *Applications of the Mathieu Equation*, [Am. J. Phys. **64**, 39](https://doi.org/10.1119/1.18290) (1982)
 
@@ -84,17 +94,23 @@
 
 * S. G. Johnson, M. Ibanescu, M. A. Skorobogatiy, O. Weisberg, J. D. Joannopoulos and Y. Fink, *Perturbation Theory for Maxwell's Equations with Shifting Material Boundaries*, [Phys. Rev. E **65**, 066611](https://doi.org/10.1103/PhysRevE.65.066611) (2002)
 
+* V. Giovannetti, S. Lloyd and L. Maccone, *Quantum-enhanced Measurements: Beating the Standard Quantum Limit*, [Science **306**, 1330](https://doi.org/10.1126/science.1104149) (2004)
+
 * G. Adesso and F. Illuminati, *Entanglement in Continuous-variable Systems: Recent Advances and Current Perspectives*, [J. Phys. A: Math. Theor. **40**, 7821](https://doi.org/10.1088/1751-8113/40/28/S01) (2007)
 
 * J. Gough and M. R. James, *The Series Product and Its Application to Quantum Feedforward and Feedback Networks*, [IEEE Trans. Automat. Contr. **54**, 2530](https://doi.org/10.1109/TAC.2009.2031205) (2009)
 
 * C. A. Regal and K. W. Lehnert, *From Cavity Electromechanics to Cavity Optomechanics*, [J. Phys.: Conf. Ser. **264**, 012025](https://doi.org/10.1088/1742-6596/264/1/012025) (2010)
 
+* T. J. Kippenberg, R. Holzwarth and S. A. Diddams, *Microresonator-based Optical Frequency Combs*, [Science **332**, 555](https://doi.org/10.1126/science.1193968) (2011)
+
 * S. Olivares, *Quantum Optics in Phase Space*, [Eur. Phys. J. Spec. Top. **203**, 3](https://doi.org/10.1140/epjst/e2012-01532-4) (2012)
 
 * M. Aspelmeyer, T. J. Kippenberg, F. Marquardt, *Cavity Optomechanics*, [Rev. Mod. Phys. **86**, 1391](https://doi.org/10.1103/RevModPhys.86.1391) (2014)
 
 * M. Metcalfe, *Applications of Cavity Optomechanics*, [Appl. Phys. Rev. **1**, 031105](https://doi.org/10.1063/1.4896029) (2014)
+
+* H. M. Oliveria and L. V. Melo, *Huygens Synchronizatioin of Two Clocks*, [Sci. Rep. **5**, 11548](https://doi.org/10.1038/srep11548) (2015)
 
 * B. D. Hauer, J. Maciejko and J. P. Davis, *Nonlinear Power Spectral Densities for the Harmonic Oscillator*, [Ann. Phys. (N. Y.) **361**, 148](https://doi.org/10.1016/j.aop.2015.05.031) (2015)
 
@@ -109,6 +125,8 @@
 * P. Rakich and F. Marquardt, *Quantum Theory of Continuum Optomechanics*, [New J. Phys. **20**, 045005](https://doi.org/10.1088/1367-2630/aaac4f) (2018)
 
 * H. Xiong and Y. Wu, *Fundamentals and Applications of Optomechanically Induced Transparency*, [Appl. Phys. Rev. **5**, 031305](https://doi.org/10.1063/1.5027122) (2018)
+
+* S. Khorasani, *Higher-order Interactions in Quantum Optomechanics: Analysis of Quadratic Terms*, [Sci. Rep. **8**, 16676](https://doi.org/10.1038/s41598-018-35055-6) (2018)
 
 * M. M. Cunha, A. Fonseca and E. O. Silva, *Tripartite Entanglement: Foundations and Applications*, [Universe **5**, 209](https://doi.org/10.3390/universe5100209) (2019)
 

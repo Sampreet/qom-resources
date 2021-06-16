@@ -1,6 +1,6 @@
-# Quantum Optomechanics Groups
+# Quantum Optomechanics People
 
-> A list of people and collaborations pursuing quantum optomechanics around the world
+> A list of individuals and groups pursuing quantum optomechanics around the world
 
 ## Albert Schliesser
 
@@ -11,6 +11,17 @@
 * Quantum correlations and entanglement in optomechanical systsms
 * Quantum measurement and control of mechanical states
 * Mechanical interfaces and memories in hybrid quantum systems
+
+## David Vitali
+
+[![Group Website](https://img.shields.io/badge/Group%20Website-Quantum%20Optics-blue?style=flat-square)](http://camcat.df.unicam.it/)
+[![Affiliation](https://img.shields.io/badge/Affiliation-Physics%20Division,%20University%20of%20Camerino-lightgrey?style=flat-square)](https://fisica.unicam.it/)
+
+* Implementations of quantum information processing schemes
+* Decoherence control
+* Quantum effects in optomechanical systems
+* Quantum measurements and state reconstruction
+* Quantum communication
 
 ## Eva Weig
 
@@ -41,6 +52,24 @@
 * Nonequilibrium quantum many-body dynamics
 * Nonlinear classical field theories
 
+## Franco Nori
+
+[![Group Website](https://img.shields.io/badge/Group%20Website-Theoretical%20Quantum%20Physics%20Laboratory-blue?style=flat-square)](https://dml.riken.jp/)
+[![Affiliation](https://img.shields.io/badge/Affiliation-Cluster%20for%20Pioneering%20Research,%20RIKEN-lightgrey?style=flat-square)](https://www.riken.jp/en/research/labs/cpr/)
+
+* Theoretical condensed matter physics
+* Interface between atomic physics, quantum optics, and nanoscience
+* Superconducting Josephson-junction qubits and hybrid quantum circuits
+* Quantum nano-electronics and quantum simulators
+* Quantum nano-mechanics and electro-nano-mechanics
+* Quantum information processing
+* Transport phenomena
+* Light-to-electricity conversion and solar energy, artificial photosynthesis
+* Graphene
+* Computational physics
+* Dynamics of complex systems
+
+
 ## Gary A. Steele
 
 [![Group Website](https://img.shields.io/badge/Group%20Website-Steele%20Lab-blue?style=flat-square)](https://steelelab.tudelft.nl/)
@@ -50,6 +79,16 @@
 * Flux-mediated optomechanics
 * Mechanics and qubits
 * Quantum circuits
+
+## Kartik Srinivasan
+
+[![Group Website](https://img.shields.io/badge/Group%20Website-Srinivasan%20Research%20Group-blue?style=flat-square)](https://groups.jqi.umd.edu/srinivasan/)
+[![Affiliation](https://img.shields.io/badge/Affiliation-Joint%20Quantum%20Institute-lightgrey?style=flat-square)](https://jqi.umd.edu/)
+
+* Integrated quantum photonics
+* Nonlinear nanophotonics
+* Nanoscale electro-optomechanical transducers
+* Integrated photonics design, fabrication and characterization tools
 
 ## Konrad W. Lehnert
 
@@ -93,15 +132,33 @@
 * Hybrid superconducting quantum circuits
 * Optomechanical sensors
 
-## Kartik Srinivasan
+## Sai Vinjanampathy
 
-[![Group Website](https://img.shields.io/badge/Group%20Website-Srinivasan%20Research%20Group-blue?style=flat-square)](https://groups.jqi.umd.edu/srinivasan/)
-[![Affiliation](https://img.shields.io/badge/Affiliation-Joint%20Quantum%20Institute-lightgrey?style=flat-square)](https://jqi.umd.edu/)
+[![Group Website](https://img.shields.io/badge/Group%20Website-Quantum%20Information%20&%20Technologies-blue?style=flat-square)](https://sites.google.com/view/qitiitb)
+[![Affiliation](https://img.shields.io/badge/Affiliation-Department%20of%20Physics,%20IIT%20Bombay-lightgrey?style=flat-square)](https://www.phy.iitb.ac.in/en)
 
-* Integrated quantum photonics
-* Nonlinear nanophotonics
-* Nanoscale electro-optomechanical transducers
-* Integrated photonics design, fabrication and characterization tools
+* Quantum information theory
+* Quantum control theory
+* Quantum thermodynamics
+* Quantum synchronization
+
+## Saikat Ghosh
+
+[![Group Website](https://img.shields.io/badge/Group%20Website-Quantum%20Measurement%20Group-blue?style=flat-square)](https://sites.google.com/site/saikatghoshiitk/home)
+[![Affiliation](https://img.shields.io/badge/Affiliation-Department%20of%20Physics,%20IIT%20Kanpur-lightgrey?style=flat-square)](http://www.iitk.ac.in/phy/)
+
+* Quantum optics
+* Atomic and molecular physics
+* Laser cooled cold atoms
+* Nano-photonics
+
+## Simon Groblacher
+
+[![Group Website](https://img.shields.io/badge/Group%20Website-Groeblacher%20Lab-blue?style=flat-square)](https://www.groeblacherlab.org/)
+[![Affiliation](https://img.shields.io/badge/Affiliation-Department%20of%20Quantum%20Nanoscience,%20TU%20Delft-lightgrey?style=flat-square)](https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/quantum-nanoscience/)
+
+* Increasing optomechanical interaction strength
+* Integrating optical cavities and mechanical systems into waveguides
 
 ## Tobias J. Kippenberg
 

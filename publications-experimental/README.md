@@ -36,9 +36,13 @@
 
 * M. Eichenfield, J. Chan, R. M. Camacho, K. J. Vahala and O. Painter, *Optomechanical Crystals*, [Nature **462**, 78](https://doi.org/10.1038/nature08524) (2009)
 
+* I. W. Frank, P. B. Deotare, M. W. McCutcheon and M. Loncar, *Programmable Photonic Crystal Nanobeam Cavities*, [Opt. Express **18**, 8705](https://doi.org/10.1364/OE.18.008705) (2010)
+
 * A. H. Safavi-Naeini, T. P. Mayer Alegre, J. Chan, M. Eichenfield, M. Wigner, Q. Lin, J. T. Hill, D. E. Chang and O. Painter, *Electromagnetically Induced Transparency and Slow Light in Optomechanics*, [Nature **472**, 69](https://doi.org/10.1038/nature09933) (2011)
 
 * S. M. Meenehan, J. D. Cohen, S. Groblacher, J. T. Hill, A. H. Safavi-Naeini, M. Aspelmeyer and O. Painter, *Silicon Optomechanical Crystal Resonator at Millikelvin Temperatures*, [PRA **90**, 011803](https://doi.org/10.1103/PhysRevA.90.011803) (2014)
+
+* M. Forsch, R. Stockill, A. Wallucks, I. Marinkovic, C. Gartner, R. A. Norte, F. v. Otten, A. Fiore, K. Srinivasan and S. Groblacher, *Microwave-to-optics Conversion using a Mechanical Oscillator in its Quantum Ground State*, [Nat. Phys. **16**, 69](https://doi.org/10.1038/s41567-019-0673-7) (2020)
 
 ## Disks
 
@@ -78,7 +82,9 @@
 
 ## Membranes
 
-* B. D. Cuthbertson, M. E. Tobar, E. N. Ivanov and D. G. Blair, *Parametric Back-action Effects in a High-Q Cryogenic Sapphire Transducer*, [Rev. Sci. instrum. **67**, 2435](https://doi.org/10.1063/1.1147193) (1996)
+* B. D. Cuthbertson, M. E. Tobar, E. N. Ivanov and D. G. Blair, *Parametric Back-action Effects in a High-Q Cryogenic Sapphire Transducer*, [Rev. Sci. Instrum. **67**, 2435](https://doi.org/10.1063/1.1147193) (1996)
+
+* T. Bagci, A. Simonsen, S. Schmid, L. G. Villanueva, E. Zeuthen, J. Appel, J. M. Taylor, A. S\o{}rensen, K. Usami, A. Schliesser and E. S. Polzik, *Optical Detection of Radio Waves through a Nanomechanical Transducer*, [Nature **507**, 81](https://doi.org/10.1038/nature13029) (2014)
 
 * R. W. Andrews, R. W. Peterson, T. P. Purdy, K. Cicak, R. W. Simmonds, C. A. Regal and K. W. Lehnert, *Bidirectional and Efficient Conversion between Microwave and Optical Light*, [Nat. Phys. **10**, 321](https://doi.org/10.1038/nphys2911) (2014)
 

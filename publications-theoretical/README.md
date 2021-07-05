@@ -32,11 +32,15 @@
 
 * I. Pikovski, M. R. Vanner, M. Aspelmeyer, M. S. Kim and C. Brukner, *Probing Planck-scale Physics with Quantum Optics*, [NatPhys **8**, 393](https://doi.org/10.1038/nphys2262) (2012)
 
+* Y.-D. Wang and A. A. Clerk, *Reservoir-engineered Entanglement in Optomechanical Systems*, [Phys. Rev. Lett. **110**, 253601](https://doi.org/10.1103/PhysRevLett.110.253601) (2013)
+
 * C. Joshi, U. Akram and G. J. Milburn, *An All-optical Feedback Assisted Steady State of an Optomechanical Array*, [New J. Phys. **16**, 023009](https://doi.org/10.1088/1367-2630/16/2/023009) (2014)
 
 * R.-X. Chen, L.-T. Shen, Z.-B. Yang, H.-Z. Wu and S.-B. Zheng, *Enhancement of Entanglement in Distant Mechanical Vibrations via Modulation in a Coupled Optomechanical System*, [Phys. Rev. A **89**, 023843](https://link.aps.org/doi/10.1103/PhysRevA.89.023843) (2014)
 
 * M. Asjad, P. Tombsei and D. Vitali, *Enhancing the Entanglement by Negative Feedback*, [QIM **QW5A**, 1](https://doi.org/10.1364/QIM.2014.QW5A.1) (2014)
+
+* E. A. Sete, H. Eleuch and C. H. Raymond Ooi, *Light-to-matter Entanglement Transfer in Optomechanics*, [J. Opt. Soc. Am. B **31**, 2821](https://doi.org/10.1364/JOSAB.31.002821) (2014)
 
 * J. Li, I. M. Haghighi, N. Malossi, S. Zippilli and D. Vitali, *Generation and Detection of Large and Robust Entanglement between Two Different Mechanical Resonators in Cavity Optomechanics*, [New J. Phys. **17**, 103037](https://doi.org/10.1088/1367-2630/17/10/103037) (2015)
 
@@ -164,6 +168,8 @@
 
 * B. D. Hauer, J. Maciejko and J. P. Davis, *Nonlinear Power Spectral Densities for the Harmonic Oscillator*, [Ann. Phys. (N. Y.) **361**, 148](https://doi.org/10.1016/j.aop.2015.05.031) (2015)
 
+* S. Huang, *Quantum State Transfer in Cavity Electro-optic Modulators*, [Phys. Rev. A **92**, 043845](https://doi.org/10.1103/PhysRevA.92.043845) (2015)
+
 * R. Bhatia and T. Jain, *On Symplectic Eigenvalues of Positive Definitive Matrices*, [J. Math. Phys. **56**, 112201](https://doi.org/10.1063/1.4935852) (2015)
 
 * H. Shi and M. Bhattacharya, *Optomechanics based on Angular Momentum Exchange between Light and Matter*, [J. Phys. B: At. Mol. Opt. Phys. **49**, 153001](https://doi.org/10.1088/0953-4075/49/15/153001) (2016)
@@ -181,6 +187,8 @@
 * S. Khorasani, *Higher-order Interactions in Quantum Optomechanics: Analysis of Quadratic Terms*, [Sci. Rep. **8**, 16676](https://doi.org/10.1038/s41598-018-35055-6) (2018)
 
 * M. M. Cunha, A. Fonseca and E. O. Silva, *Tripartite Entanglement: Foundations and Applications*, [Universe **5**, 209](https://doi.org/10.3390/universe5100209) (2019)
+
+* K. Bharti, T. Haug, V. Vedral and L.-C. Kwek, *Machine Learning Meets Quantum Foundations: A Brief Survey*, [AVS Quantum Sci. **2**, 034101](https://doi.org/10.1116/5.0007529) (2020)
 
 * A. K. Sarma, S. Chakraborty and S. Kalita, *Continuous Variable Quantum Entanglement in Optomechanical Systems: A Short Review*, [AVS Quantum Sci. **3**, 015901](https://doi.org/10.1116/5.0022349) (2021)
 

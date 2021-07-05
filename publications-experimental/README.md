@@ -50,6 +50,8 @@
 
 * K. C. Balram, M. Davanco, J. Y. Lim, J. D. Song and Kartik Srinivasan, *Moving Boundary and Photoelastic Coupling in GaAs Optomechanical Resonator*, [Optica **1**, 2334](https://doi.org/10.1364/OPTICA.1.000414) (2014)
 
+* P. E. Allain, B. Guha, C. Baker, D. Parrain, A. Lemaitre, G. Leo and I. Favero, *Electro-optomechanical Modulation Instability in a Semiconductor Resonator*, [Phys. Rev. Lett. **126**, 243901](https://doi.org/10.1103/PhysRevLett.126.243901) (2021)
+
 ## Drums
 
 * J. D. Teufel, D. Li, M. S. Allman, K. Cicak, A. J. Sirois, J. D. Whittaker and R. W. Simmonds, *Circuit Cavity Electromechanics in the Strong-coupling Regime*, [Nature **471**, 204](https://doi.org/10.1038/nature09898) (2011)

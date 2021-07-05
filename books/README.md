@@ -18,4 +18,4 @@
 
 ## Optical Trapping
 
-* Arthur Ashkin, *Optical Trapping and Manipulation of Neutral Particles using Lasers, [World Scientific](https://doi.org/10.1142/4208) (2006)
+* Arthur Ashkin, *Optical Trapping and Manipulation of Neutral Particles using Lasers*, [World Scientific](https://doi.org/10.1142/4208) (2006)

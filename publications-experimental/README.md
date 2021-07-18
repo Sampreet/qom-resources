@@ -2,6 +2,10 @@
 
 > A list of of experimental publications exploring various configurations in quantum optomechanics
 
+## Atoms
+
+* A. W. Laskar, P. Adhikary, S. Mondal, P. Katiyar, S. Vinjanampathy and S. Ghosh, *Observation of Quantum Phase Synchronization in Spin-1 Atoms*, [Phys. Rev. Lett. **125**, 013601](https://doi.org/10.1103/PhysRevLett.125.013601) (2020)
+
 ## Beams
 
 * A. Naik, O. Buu, M. D. LaHaye, A. D. Armour, A. A. Clerk, M. P. Blencowe and K. C. Schwab, *Cooling a Nanomechanical Resonator with Quantum Back-action*, [Nature **443**, 193](https://doi.org/10.1038/nature05027) (2006)
@@ -15,6 +19,8 @@
 * D. Antonio, D. H. Zanette and D. Lopez, *Frequency Stabilization in Nonlinear Micromechanical Oscillators*, [Nat. Commun. **3**, 806](https://doi.org/10.1038/ncomms1813) (2012)
 
 * X. Zhou, F. Hocke, A. Schliesser, A. Marx, H. Huebl, R. Gross and T. J. Kippenberg, *Slowing, Advancing and Switching of Microwave Signals using Circuit Nanoelectromechanics*, [Nat. Phys. **9**, 179](https://doi.org/10.1038/nphys2527) (2013)
+
+* M. Bagheri, M. Poot, L. Fan, F. Marquardt and H. X. Tang, *Photonic Cavity Synchronization of Nanomechanical Oscillators*, [Phys. Rev. Lett. **111**, 213902](https://doi.org/10.1103/PhysRevLett.111.213902) (2013)
 
 * M. Pernpeintner, T. Faust, F. Hocke, J. P. Kotthaus, E. M. Weig, H. Huebl and R. Gross, *Circuit Electromechanics with a Non-metallized Nanobeam*, [Appl. Phys. Lett. **105**, 123106](https://doi.org/10.1063/1.4896419) (2014)
 
@@ -40,7 +46,9 @@
 
 * A. H. Safavi-Naeini, T. P. Mayer Alegre, J. Chan, M. Eichenfield, M. Wigner, Q. Lin, J. T. Hill, D. E. Chang and O. Painter, *Electromagnetically Induced Transparency and Slow Light in Optomechanics*, [Nature **472**, 69](https://doi.org/10.1038/nature09933) (2011)
 
-* S. M. Meenehan, J. D. Cohen, S. Groblacher, J. T. Hill, A. H. Safavi-Naeini, M. Aspelmeyer and O. Painter, *Silicon Optomechanical Crystal Resonator at Millikelvin Temperatures*, [PRA **90**, 011803](https://doi.org/10.1103/PhysRevA.90.011803) (2014)
+* M. Ludwig and F. Marquardt, *Quantum Many-body Dynamics in Optomechanical Arrays*, [Phys. Rev. Lett. **111**, 073603](https://doi.org/10.1103/PhysRevLett.111.073603) (2013)
+
+* S. M. Meenehan, J. D. Cohen, S. Groblacher, J. T. Hill, A. H. Safavi-Naeini, M. Aspelmeyer and O. Painter, *Silicon Optomechanical Crystal Resonator at Millikelvin Temperatures*, [Phys. Rev. A **90**, 011803](https://doi.org/10.1103/PhysRevA.90.011803) (2014)
 
 * M. Forsch, R. Stockill, A. Wallucks, I. Marinkovic, C. Gartner, R. A. Norte, F. v. Otten, A. Fiore, K. Srinivasan and S. Groblacher, *Microwave-to-optics Conversion using a Mechanical Oscillator in its Quantum Ground State*, [Nat. Phys. **16**, 69](https://doi.org/10.1038/s41567-019-0673-7) (2020)
 
@@ -48,7 +56,11 @@
 
 * H. Lee, T. Chen, J. Li, K. Y. Yang, S. Jeon, O. Painter and K. J. Vahala, *Chemically etched Ultrahigh-Q Wedge-resonator on a Silicon Chip*, [Nature Photon. **6**, 369](https://doi.org/10.1038/nphoton.2012.109) (2012)
 
+* M. Zhang, G. S. Wiederhecker, S. Manipatruni, A. Barnard, P. McEuen and M. Lipson, *Synchronization of Micromechanical Oscillators Using Light*, [Phys. Rev. Lett. **109**, 233906](https://doi.org/10.1103/PhysRevLett.109.233906) (2012)
+
 * K. C. Balram, M. Davanco, J. Y. Lim, J. D. Song and Kartik Srinivasan, *Moving Boundary and Photoelastic Coupling in GaAs Optomechanical Resonator*, [Optica **1**, 2334](https://doi.org/10.1364/OPTICA.1.000414) (2014)
+
+* M. Zhang, S. Shah, J. Cardenas and M. Lipson, *Synchronization and Phase Noise Reduction in Micromechanical Oscillator Arrays Coupled through Light*, [Phys. Rev. Lett. **115**, 163902](https://doi.org/10.1103/PhysRevLett.115.163902) (2015)
 
 * P. E. Allain, B. Guha, C. Baker, D. Parrain, A. Lemaitre, G. Leo and I. Favero, *Electro-optomechanical Modulation Instability in a Semiconductor Resonator*, [Phys. Rev. Lett. **126**, 243901](https://doi.org/10.1103/PhysRevLett.126.243901) (2021)
 
@@ -100,7 +112,15 @@
 
 * S. Groblacher, K. Hammerer, M. R. Vanner and M. Aspelmeyer, *Observation of Strong Coupling between a Micromechanical Resonator and an Optical Cavity Field*, [Nature **460**, 724](https://doi.org/10.1038/nature08171) (2009)
 
+* V. Fiore, Y. Yang, M. C. Kuzyk, R. Barbour, L. Tian and H. Wang, *Storing Optical Information as a Mechanical Excitation in a Silica Optomechanical Resonator*, [Phys. Rev. Lett. **107**, 133601](https://doi.org/10.1103/PhysRevLett.107.133601) (2011)
+
+* E. D. Lopaeva, I. R. Berchera, I. P. Degiovanni, S. Olivares, G. Brida and M. Genovese, *Experimental Realization of Quantum Illumination*, [Phys. Rev. Lett. **110**, 153603](https://doi.org/10.1103/PhysRevLett.110.153603) (2013)
+
 * E. Obrzud, S. Lecomte, T. Herr, *Temporal Solitons in Microresonators driven by Optical Pulses*, [Nature Photon. **11**, 600](https://doi.org/10.1038/nphoton.2017.140) (2017)
+
+* M. Tse *et al*, *Quantum-Enhanced Advanced LIGO Detectors in the Era of Gravitational-Wave Astronomy*, [Phys. Rev. Lett. **123**, 231107](https://doi.org/10.1103/PhysRevLett.123.231107) (2019)
+
+* F. Acernese *et al*, *Increasing the Astrophysical Reach of the Advanced Virgo Detector via the Application of Squeezed Vacuum States of Light*, [Phys. Rev. Lett. **123**, 231108](https://doi.org/10.1103/PhysRevLett.123.231108) (2019)
 
 ## Particles
 
@@ -108,13 +128,21 @@
 
 * V. Jain, J. Gieseler, C. Moritz, C. Dellago, R. Quidant and L. Novotny, *Direct Measurement of Photon Recoil from a Levitated Nanoparticle*, [Phys. Rev. Lett. **116**, 243601](https://doi.org/10.1103/PhysRevLett.116.243601) (2016)
 
+## Qubits
+
+* S. Langenfeld, S. Welte, L. Hartung, S. Daiss, P. Thomas, O. Morin, E. Distante and G. Rempe, *Quantum Teleportation between Remote Qubit Memories with only a Single Photon as a Resource*, [Phys. Rev. Lett. **126**, 130502](https://doi.org/10.1103/PhysRevLett.126.130502) (2021)
+
 ## Rings
 
 * P. Marin-Palomo, J. N. Kemal, M. Karpov, A. Kordts, J. Pfeifle, M. H. P. Pfeiffer, P. Trocha, S. Wolf, V. Brasch, M. H. Anderson, R. Rosenberger, K. Vijayan, W. Freude, T. J. Kippenberg and C. Koos, *Microresonator-based Solitons for Massively Parallel Coherent Optical Communications*, [Nature **546**, 274](https://doi.org/10.1038/nature22387) (2017)
 
 * H. Guo, M. Karpov, E. Lucas, A. Kordts, M. H. P. Pfeiffer, V. Brasch, G. Lihachev, V. E. Lobanov, M. L. Gorodetsky and T. J. Kippenberg, *Universal Dynamics and Deterministic Switching of Dissipative Kerr Solitons in Optical Microresonators*, [Nat. Phys. **13**, 94](https://doi.org/10.1038/nphys3893) (2017)
 
+* M. T. M. Woodley, L. Hill, L. D. Bino, G.-L. Oppo and P. Del'Haye, *Self-switching Kerr Oscillations of Counterpropagating Light in Microresonators*, [Phys. Rev. Lett. **126**, 043901](https://doi.org/10.1103/PhysRevLett.126.043901) (2021)
+
 ## Toroids
+
+* A. Schliesser, P. Del'Haye, N. Nooshi, K. J. Vahala and T. J. Kippenberg, *Radiation Pressure Cooling of a Micromechanical Oscillator Using Dynamical Backaction*, [Phys. Rev. Lett. **97**, 243905](https://doi.org/10.1103/PhysRevLett.97.243905) (2006)
 
 * S. Weis, R. Riviere, S. Deleglise, E. Gavartin, O. Arcizet, A. Schliesser and T. J. Kippenberg, *Optomechanically Induced Transparency*, [Science **330**, 1520](https://doi.org/10.1126/science.1195596) (2010)
 

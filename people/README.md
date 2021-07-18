@@ -69,6 +69,19 @@
 * Computational physics
 * Dynamics of complex systems
 
+## Immanueal Bloch
+
+[![Group Website](https://img.shields.io/badge/Group%20Website-Quantum%20Many%20Body%20Systems%20Division-blue?style=flat-square)](https://www.quantum-munich.de/)
+[![Affiliation](https://img.shields.io/badge/Affiliation-Max%20Planck%20Institute%20of%20Quantum%20Optics-lightgrey?style=flat-square)](https://www.mpq.mpg.de/en)
+
+* Ultracold Bosons in optical superlattices
+* The Rubidium quantum gas microscope
+* Ultracold Fermions in optical lattices
+* A Caesium quantum gas microscope
+* A Lithium quantum gas microscope
+* Strontium Rydberg lab
+* Ultracold Ytterbium in optical lattices 
+* Ultracold atoms in a honeycomb optical lattice
 
 ## Gary A. Steele
 

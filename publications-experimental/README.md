@@ -12,6 +12,8 @@
 
 * C. A. Regal, J. D. Teufel and K. W. Lehnert, *Measuring Nanomechanical Motion with a Microwave Cavity Interferometer*, [Nat. Phys. **4**, 555](https://doi.org/10.1038/nphys974) (2008)
 
+* M. J. Woolley, A. C. Doherty, G. J. Milburn and K. C. Schwab, *Nanomechanical Squeezing with Detection via a Microwave Cavity*, [Phys. Rev. A **78**, 062303](https://doi.org/10.1103/PhysRevA.78.062303) (2008)
+
 * T. Rocheleau, T. Ndukum, C. Macklin, J. B. Hertzberg, A. A. Clerk and K. C. Schwab, *Preparation and Detection of a Mechanical Resonator near the Ground State of Motion*, [Nature **463**, 72](https://doi.org/10.1038/nature08681) (2010)
 
 * F. Massel, T. T. Heikkila, J.-M. Pirkkalainen, S. U. Cho, H. Saloniemi, P. J. Hakonen and M. A. Sillanpaa, *Microwave Amplification with Nanomechanical Resonators*, [Nature **480**, 351](https://doi.org/10.1038/nature10628) (2011)
@@ -123,6 +125,8 @@
 * F. Acernese *et al*, *Increasing the Astrophysical Reach of the Advanced Virgo Detector via the Application of Squeezed Vacuum States of Light*, [Phys. Rev. Lett. **123**, 231108](https://doi.org/10.1103/PhysRevLett.123.231108) (2019)
 
 ## Particles
+
+* C. Dong, V. Fiore, M. C. Kuzyk and H. Wang, *Transient Optomechanically Induced Transparency in a Silica Microsphere*, [Phys. Rev. A **87**, 055802](https://doi.org/10.1103/PhysRevA.87.055802) (2013)
 
 * Z. Shen, C.-H. Dong, Y. Chen, Y.-F. Xiao, F.-W. Sun and G.-C. Guo, *Compensation of the Kerr Effect for Transient Optomechanically Induced Transparency in a Silica Microsphere*, [Opt. Lett. **41**, 1249](https://doi.org/10.1364/OL.41.001249) (2016)
 

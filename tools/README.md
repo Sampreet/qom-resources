@@ -8,6 +8,8 @@
 [![Updated](https://img.shields.io/github/last-commit/qutip/qutip?label=updated&color=lightgrey&style=flat-square)](https://github.com/qutip/qutip)
 [![Stars](https://img.shields.io/github/stars/qutip/qutip?color=lightgrey&style=flat-square)](https://github.com/qutip/qutip)
 
+J. R. Johansson, P. D. Nation and F. Nori, *QuTiP 2: A Python Framework for the Dynamics of Open Quantum Systems*, [Comput. Phys. Commun. **184**, 1234](https://www.doi.org/10.1016/j.cpc.2012.11.019) (2013)
+
 * Open-source Python library to simulate dynamics of open quantum systems
 * Built on Numpy, Scipy and Cython packages with graphical outputs by Matplotlib
 * User-friendly and efficient numerical simulations of a wide variety of Hamiltonians
@@ -19,6 +21,8 @@
 [![Release](https://img.shields.io/github/v/release/XanaduAI/strawberryfields?logo=python&color=3776AB&style=flat-square)](https://github.com/XanaduAI/strawberryfields)
 [![Updated](https://img.shields.io/github/last-commit/XanaduAI/strawberryfields?label=updated&color=lightgrey&style=flat-square)](https://github.com/XanaduAI/strawberryfields)
 [![Stars](https://img.shields.io/github/stars/XanaduAI/strawberryfields?color=lightgrey&style=flat-square)](https://github.com/XanaduAI/strawberryfields)
+
+N. Killoran, J. Izzac, N. Quesada, V. Bergholm, M. Amy and C. Weedbrook, *Strawberry Fields: A Software Platform for Photonic Quantum Computing*, [Quantum **3**, 129](https://www.doi.org/10.22331/q-2019-03-11-129) (2019)
 
 * Open-source full-stack Python library for designing, simulating and optimizing continuous-variable quantum optical circuits
 * High-level functions for solving practical problems including optimization, machine learning and chemistry

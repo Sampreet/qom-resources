@@ -12,7 +12,11 @@
 
 ## Chaos
 
-* X.-Y. Lu, H. Jing,  J.-Y. Ma and Y. Wu, *PT -Symmetry-Breaking Chaos in Optomechanics*, [Phys. Rev. Lett. **114**, 253601](https://doi.org/10.1103/PhysRevLett.114.253601) (2015)
+* L. Bakemeier, A. Alvermann and H. Fehske, *Route to Chaos in Optomechanics*, [Phys. Rev. Lett. **114**, 013601](https://doi.org/10.1103/PhysRevLett.114.013601) (2015)
+
+* X.-Y. Lu, H. Jing,  J.-Y. Ma and Y. Wu, *PT-Symmetry-Breaking Chaos in Optomechanics*, [Phys. Rev. Lett. **114**, 253601](https://doi.org/10.1103/PhysRevLett.114.253601) (2015)
+
+* T. F. Roque, F. Marquardt and O. M. Yevtushenko, *Nonlinear Dynamics of Weakly Dissipative Optomechanical Systems*, [New J. Phys. **22**, 013049](https://doi.org/10.1088/1367-2630/ab6522) (2020)
 
 ## Cooling
 
@@ -148,17 +152,21 @@
 
 * C. Dong, J. Zhang, V. Fiore and H. Wang, *Optomechanically Induced Transparency and Self-induced Oscillations with Bogoliubov Mechanical Modes*, [Optica **1**, 425](https://doi.org/10.1364/OPTICA.1.000425) (2014)
 
+* H. Xiong, L.-G. Si, X. Yang and Y. Wu, *Asymmetric Optical Transmission in an Optomechanical Array*, [Appl. Phys. Lett. **107**, 091116](https://doi.org/10.1063/1.4930166) (2015)
+
 * H. Lu, Y. Jiang, Y.-Z. Wang and H. Jing, *Optomechanically Induced Transparency in a Spinning Resonator*, [Photon. Res. **5**, 367](https://doi.org/10.1364/PRJ.5.000367) (2017)
 
 * Y.-F. Jiao, T.-X. Lu and H. Jing, *Optomechanical Second-order Sidebands and Group Delays in a Kerr Resonator*, [Phys. Rev. A. **97**, 013843](https://doi.org/10.1103/PhysRevA.97.013843) (2018)
 
 * J.-X. Peng, Z. Chen, Q.-Z. Yuan and X.-L. Feng, *Double Optomechanically Induced Transparency in a Laguerre-Gaussian Rovibrational Cavity*, [Phys. Lett. A **384**, 126153](https://doi.org/10.1016/j.physleta.2019.126153) (2020)
 
-* D.-G. Lai, X. Wang, W. Qin, B.-P. Hou, F. Nori and J.-Q. Liao, *Tunable Optomechanically Induced Transparency by Controlling the Dark-mode Effect*, [Phys. Rev. A. **102**, 023707](https://doi.org/10.1103/PhysRevA.102.023707) (2018)
+* D.-G. Lai, X. Wang, W. Qin, B.-P. Hou, F. Nori and J.-Q. Liao, *Tunable Optomechanically Induced Transparency by Controlling the Dark-mode Effect*, [Phys. Rev. A. **102**, 023707](https://doi.org/10.1103/PhysRevA.102.023707) (2020)
 
 ## State Transfer
 
 * S. Huang, *Quantum State Transfer in Cavity Electro-optic Modulators*, [Phys. Rev. A **92**, 043845](https://doi.org/10.1103/PhysRevA.92.043845) (2015)
+
+* G. D. de Moraes Neto, F. M. Andrade, V. Montenegro and S. Bose, *Quantum State Transfer in Optomechanical Arrays*, [Phys. Rev. A **93**, 062339](https://doi.org/10.1103/PhysRevA.93.062339) (2016)
 
 * J. Cao, W.-X. Cui, X. X. Yi, H.-F. Wang, *Controllable Photon-phonon Convesion via a Topologically Protected Edge Channel in an Optomechanical Lattice*, [Phys. Rev. A **103**, 023504](https://doi.org/10.1103/PhysRevA.103.023504) (2021)
 
@@ -209,6 +217,8 @@
 * F. Bemani, A. Motazedifard, R. Roknizadeh, M. H. Naderi and D. Vitali, *Synchronization Dynamics of two Nanomechanical Membranes within a Fabry-Perot Cavity*, [Phys. Rev. A **96**, 023805](https://doi.org/10.1103/PhysRevA.96.023805) (2017)
 
 * S. E. Nigg, *Observing Quantum Synchronization Blockade in Circuit Quantum Electrodynamics*, [Phys. Rev. A **97**, 013811](https://link.aps.org/doi/10.1103/PhysRevA.97.013811) (2018)
+
+* G.-j. Qiao, H.-x. Gao, H.-d. Liu and X. X. Yi, *Quantum Synchronization of Two Mechanical Oscillators in Coupled Optomechanical Systems with Kerr Nonlinearity*, [Sci. Rep. **8**, 15614](https://doi.org/10.1038/s41598-018-33903-z) (2018)
 
 * M. Koppenhofer and A. Roulet, *Optimal Synchronization Deep in the Quantum Regime: Resource and Fundamental Limit*, [Phys. Rev. A. **99**, 043804](https://doi.org/10.1103/PhysRevA.99.043804) (2019)
 
@@ -296,6 +306,8 @@
 
 * G. Adesso and F. Illuminati, *Entanglement in Continuous-variable Systems: Recent Advances and Current Perspectives*, [J. Phys. A: Math. Theor. **40**, 7821](https://doi.org/10.1088/1751-8113/40/28/S01) (2007)
 
+* M. Ludwig, B. Kubala and F. Marquardt, *The Optomechanical Instability in the Quantum Regime*, [New J. Phys. **10**, 095013](https://doi.org/10.1088/1367-2630/10/9/095013) (2008)
+
 * S.-H. Tan, B. I. Erkmen, V. Giovannetti, S. Guha, S. Lloyd, L. Maccone, S. Pirandola and J. H. Shapiro, *Quantum Illumination with Gaussian States*, [Phys. Rev. Lett. **101**, 253601](https://doi.org/10.1103/PhysRevLett.101.253601) (2008)
 
 * J. Gough and M. R. James, *The Series Product and Its Application to Quantum Feedforward and Feedback Networks*, [IEEE Trans. Automat. Contr. **54**, 2530](https://doi.org/10.1109/TAC.2009.2031205) (2009)
@@ -305,6 +317,8 @@
 * T. J. Kippenberg, R. Holzwarth and S. A. Diddams, *Microresonator-based Optical Frequency Combs*, [Science **332**, 555](https://doi.org/10.1126/science.1193968) (2011)
 
 * M. R. Vanner, I. Pikovski, G. D. Cole, M. S. Kim, C. Brukner, K. Hammerer, G. J. Milburn, M. Aspelmeyer, *Pulsed Quantum Optomechanics*, [PNAS **39**, 16182](https://doi.org/10.1073/pnas.1105098108) (2011)
+
+* M. Poot, H. S. J. van der Zant, *Mechanical Systems in the Quantum Regime*, [Phys. Rep. **511**, 273](https://doi.org/10.1016/j.physrep.2011.12.004) (2012)
 
 * S. Olivares, *Quantum Optics in Phase Space*, [Eur. Phys. J. Spec. Top. **203**, 3](https://doi.org/10.1140/epjst/e2012-01532-4) (2012)
 
@@ -343,6 +357,8 @@
 * M. Huber, L. Lami, C. Lancien and A. Muller-Hermes, *High-dimensional Entanglement in States with Positive Partial Transposition*, [Phys. Rev. Lett. **121**, 200503](https://doi.org/10.1103/PhysRevLett.121.200503) (2018)
 
 * M. M. Cunha, A. Fonseca and E. O. Silva, *Tripartite Entanglement: Foundations and Applications*, [Universe **5**, 209](https://doi.org/10.3390/universe5100209) (2019)
+
+* Y.-P. Wang and C.-M. Hu, *Dissipative Couplings in Cavity Magnonics*, [J. Appl. Phys. **127**, 130901](https://doi.org/10.1063/1.5144202) (2020)
 
 * K. Bharti, T. Haug, V. Vedral and L.-C. Kwek, *Machine Learning Meets Quantum Foundations: A Brief Survey*, [AVS Quantum Sci. **2**, 034101](https://doi.org/10.1116/5.0007529) (2020)
 

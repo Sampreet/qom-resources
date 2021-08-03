@@ -134,6 +134,8 @@
 
 ## Qubits
 
+* M. F. Gely, M. Kounalakis, C. Dickel, J. Dalle, R. Vatrr, B. Baker, M. D. Jenkins and G. A. Steele, *Observation and Stabilization of Photonic Fock States in a Hot Raio-frequency Resonator*, [Science **363**, 1072](https://doi.org/10.1126/science.aaw3101) (2019)
+
 * S. Langenfeld, S. Welte, L. Hartung, S. Daiss, P. Thomas, O. Morin, E. Distante and G. Rempe, *Quantum Teleportation between Remote Qubit Memories with only a Single Photon as a Resource*, [Phys. Rev. Lett. **126**, 130502](https://doi.org/10.1103/PhysRevLett.126.130502) (2021)
 
 ## Rings
@@ -153,6 +155,8 @@
 * E. Verhagen, S. Deleglise, S. Weis, A. Schliesser and T. J. Kippenberg, *Quantum-coherent Coupling of a Mechanical Oscillator to an Optical Cavity Mode*, [Nature **482**, 63](https://doi.org/10.1038/nature10787) (2012)
 
 ## Views and Perspectives
+
+* K. L. Ekinci and M. L. Roukes, *Nanoelectromechanical Systems*, [Rev. Sci. Instrum. **76**, 061101](https://doi.org/10.1063/1.1927327) (2005)
 
 * A. M. Weiner, *Cavity Solitons Come of Age*, [Nature Photon. **11**, 533](https://doi.org/10.1038/nphoton.2017.149) (2017)
 

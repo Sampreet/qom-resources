@@ -20,7 +20,11 @@
 
 * T. F. Roque, F. Marquardt and O. M. Yevtushenko, *Nonlinear Dynamics of Weakly Dissipative Optomechanical Systems*, [New J. Phys. **22**, 013049](https://doi.org/10.1088/1367-2630/ab6522) (2020)
 
+* Y. A. Kharkov, V. E. Sotskov, A. A. Karazeev, E. O. Kiktenko and A. K. Fedorov, *Revealing Quantum Chaos with Machine Learning*, [Phys. Rev. B **101**, 064406](https://doi.org/10.1103/PhysRevB.101.064406) (2020)
+
 * B. Bandyopadhyay and T. Banerjee, *Revival of Oscillation and Symmetry Breaking in Coupled Quantum Oscillators*, [Chaos **31**, 063109](https://doi.org/10.1063/5.0055091) (2021)
+
+* T. Z. Jiahao, M. A. Hsieh and E. Forgoston, *Knowledge-based Learning of Nonlinear Dynamics and Chaos*, [Chaos **31**, 111101](https://doi.org/10.1063/5.0065617) (2021)
 
 ## Cooling
 
@@ -72,7 +76,7 @@
 
 * U. Akram, W. Munro, K. Nemoto and G. J. Milburn, *Photon-phonon Entanglement in Coupled Optomechanical Arrays*, [Phys. Rev. A **86**, 042306](https://doi.org/10.1103/PhysRevA.86.042306) (2012)
 
-* H. Tan, L. F. Buchmann, H. Seok and G. Li, *Achieng Steady-state Entanglement of Remote Micromechanical Oscillators by Cascaded Cavity Coupling*, [Phys. Rev. A **87**, 022318](https://doi.org/10.1103/PhysRevA.87.022318) (2012)
+* H. Tan, L. F. Buchmann, H. Seok and G. Li, *Achieving Steady-state Entanglement of Remote Micromechanical Oscillators by Cascaded Cavity Coupling*, [Phys. Rev. A **87**, 022318](https://doi.org/10.1103/PhysRevA.87.022318) (2012)
 
 * Y.-D. Wang and A. A. Clerk, *Reservoir-engineered Entanglement in Optomechanical Systems*, [Phys. Rev. Lett. **110**, 253601](https://doi.org/10.1103/PhysRevLett.110.253601) (2013)
 

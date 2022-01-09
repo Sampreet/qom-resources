@@ -38,6 +38,8 @@
 
 * N. Malossi, P. Piergentili, J. Li, E. Serra, R. Natali, G. Di Giuseppe and D. Vitali, *Sympathetic Cooling of a Radio-frequency LC Circuit to its Ground State in an Optoelectromechanical System*, [Phys. Rev. A **103**, 033516](https://link.aps.org/doi/10.1103/PhysRevA.103.0335166) (2021)
 
+* R. Nongthombam, A. Sahoo and A. K. Sarma, *Ground-state Cooling of a Mechanical Oscillator via a Hybrid Electro-optomechanical System*, [Phys. Rev. A **104**, 023509](https://doi.org/10.1103/PhysRevA.104.023509) (2021)
+
 ## Discord
 
 * H. Ollivier and W. H. Zurek, *Quantum Discord: A Measure of the Quantumness of Correlations*, [Phys. Rev. Lett. **88**, 017901](https://doi.org/10.1103/PhysRevLett.88.017901) (2002)
@@ -122,6 +124,8 @@
 
 * S. Huang and G. S. Agarwal, *Normal-mode Splitting and Antibunching in Stokes and Anti-Stokes Processes in Cavity Optomechanics- Radiation-pressure-induced Four-wave-mixing Cavity Optomechanics*, [Phys. Rev. A. **81**, 033830](https://doi.org/10.1103/PhysRevA.81.033830) (2010)
 
+* A. Nunnenkamp, K. Borkje, J. G. E. Harris and S. M. Grivin, *Cooling and Squeezing via Quadratic Optomechanical Coupling*, [Phys. Rev. A **82**, 021806](https://doi.org/10.1103/PhysRevA.82.021806) (2010)
+
 * G. L. Giorgi, F. Galve, G. Manzano, P. Colet and R. Zambrini, *Quantum Correlation and Mutual Synchronization*, [Phys. Rev. A **85**, 052101](https://doi.org/10.1103/PhysRevA.85.052101) (2012)
 
 * A. Farace and V. Giovannetti, *Enhancing Quantum Effects via Periodic Modulations in Optomechanical Systems*, [Phys. Rev. A **86**, 013820](https://doi.org/10.1103/PhysRevA.86.013820) (2012)
@@ -197,6 +201,10 @@
 ## Squeezing
 
 * H.-Y. Fan and X.-Y. Pan, *Quantization and Squeezed State of Two L-C Circuits with Mutual Inductance*, [Chin. Phys. Lett. **15**, 625](https://doi.org/10.1088/0256-307X/15/9/001) (1998)
+
+* X.-Y. Lu, J.-Q. Liao, L. Tian and F. Nori, *Steady-state Mechanical Squeezing in an Optomechanical System via Duffing Nonlinearity*, [Phys. Rev. A **91**, 013834](https://doi.org/10.1103/PhysRevA.91.013834) (2015)
+
+* R. Zhang, Y. Fang, Y.-Y. Wang, S. Chesi and Y.-D. Wang, *Strong Mechanical Squeezing in an Unresolved-sideband Optomechanical System*, [Phys. Rev. A **99**, 043805](https://doi.org/10.1103/PhysRevA.99.043805) (2019)
 
 * C.-H. Bai, D.-Y. Wang, S. Zhang, S. Liu and H.-F. Wang, *Strong Mechanical Squeezing in a Standard Optomechanical System by Pump Modulation*, [Phys. Rev. A **101**, 053836](https://doi.org/10.1103/PhysRevA.101.053836) (2020)
 

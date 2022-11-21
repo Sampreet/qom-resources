@@ -1,6 +1,41 @@
 # Experimental Quantum Optomechanics
 
-> A list of of experimental publications exploring various configurations in quantum optomechanics
+> A list of experimental publications exploring various configurations in quantum optomechanics
+
+## Contents
+
+* [Views and Perspectives](#views-and-perspectives)
+* [Atoms](#atoms)
+* [Beams](#beams)
+* [Cantilevers](#cantilevers)
+* [Cooper Pairs](#cooper-pairs)
+* [Crystals](#crystals)
+* [Disks](#disks)
+* [Drums](#drums)
+* [Ions](#ions)
+* [Membranes](#membranes)
+* [Mirrors](#mirrors)
+* [Particles](#particles)
+* [Qubits](#qubits)
+* [Resonators](#resonators)
+* [Rings](#rings)
+* [Toroids](#toroids)
+* [Hybrids](#hybrids)
+* [Others](#others)
+
+## Views and Perspectives
+
+* K. L. Ekinci and M. L. Roukes, *Nanoelectromechanical Systems*, [Rev. Sci. Instrum. **76**, 061101](https://doi.org/10.1063/1.1927327) (May, 2005)
+
+* A. M. Weiner, *Cavity Solitons Come of Age*, [Nature Photon. **11**, 533](https://doi.org/10.1038/nphoton.2017.149) (2017)
+
+* L. Midolo, A. Schliesser and A. Fiore, *Nano-opto-electro-mechanical Systems*, [Nat. Nanotechnol. **13**, 11](https://doi.org/10.1038/s41565-017-0039-1) (Jan, 2018)
+
+* J. Zhou, B. Huang, Z. Yan and J.-C. G. Bunzli, *Emerging Role of Machine Learning in Light-matter Interaction*, [Light: Sci. Appl. **8**, 84](https://doi.org/10.1038/s41377-019-0192-4) (2019)
+
+* R. Valivarthi *et al*, *Teleportation Systems Toward a Quantum Internet*, [PRX Quantum **1**, 020317](https://doi.org/10.1103/PRXQuantum.1.020317) (2020)
+
+* H.-K. Lau and A. A. Clerk, *Macroscale Entanglement and Measurement*, [Science **372**, 570](https://doi.org/10.1126/science.abh3419) (2021)
 
 ## Atoms
 
@@ -8,7 +43,7 @@
 
 ## Beams
 
-* A. Naik, O. Buu, M. D. LaHaye, A. D. Armour, A. A. Clerk, M. P. Blencowe and K. C. Schwab, *Cooling a Nanomechanical Resonator with Quantum Back-action*, [Nature **443**, 193](https://doi.org/10.1038/nature05027) (2006)
+* A. Naik, O. Buu, M. D. LaHaye, A. D. Armour, A. A. Clerk, M. P. Blencowe and K. C. Schwab, *Cooling a Nanomechanical Resonator with Quantum Backaction*, [Nature **443**, 193](https://doi.org/10.1038/nature05027) (2006)
 
 * C. A. Regal, J. D. Teufel and K. W. Lehnert, *Measuring Nanomechanical Motion with a Microwave Cavity Interferometer*, [Nat. Phys. **4**, 555](https://doi.org/10.1038/nphys974) (2008)
 
@@ -38,7 +73,7 @@
 
 * I. Bargatin, E. B. Myers, J. S. Aldridge, C. Marcoux, P. Brianceau, L. Duraffourg, E. Colinet, S. Hentz, P. Andreucci and M. L. Roukes, *Large-scale Integration of Nanoelectromechanical Systems for Gas Sensing Applications*, [Nano Lett. **12**, 1269](https://doi.org/10.1021/nl2037479) (2012)
 
-## Cooper-pairs
+## Cooper Pairs
 
 * V. M. Vinokur, T. I. Baturina, M.V. Fistul, A. Yu. Mironov, M. R. Baklanov and C. Strunk, *Superinsulator and Quantum Synchronization*, [Nature **452**, 613](https://doi.org/10.1038/nature06837) (2008)
 
@@ -70,7 +105,7 @@
 
 ## Drums
 
-* J. D. Teufel, D. Li, M. S. Allman, K. Cicak, A. J. Sirois, J. D. Whittaker and R. W. Simmonds, *Circuit Cavity Electromechanics in the Strong-coupling Regime*, [Nature **471**, 204](https://doi.org/10.1038/nature09898) (2011)
+* J. D. Teufel, D. Li, M. S. Allman, K. Cicak, A. J. Sirois, J. D. Whittaker and R. W. Simmonds, *Circuit Cavity Electromechanics in the Strong-coupling Regime*, [Nature **471**, 204](https://doi.org/10.1038/nature09898) (Mar, 2011)
 
 * J. D. Teufel, T. Donner, D. Li, J. W. Harlow, M. S. Allman, K. Cicak, A. J. Sirois, J. D. Whittaker, K. W. Lehnert and R. W. Simmonds, *Sideband Cooling of Micromechanical Motion to the Quantum Ground State*, [Nature **475**, 359](https://doi.org/10.1038/nature10261) (2011)
 
@@ -90,10 +125,6 @@
 
 * L. M. de Lepinay, C. F. Ockeleon-Korppi, M. J. Woolley and M. A. Sillanpaa, *Quantum Mechanics-free Subsystem with Mechanical Oscillators*, [Science **372**, 625](https://doi.org/10.1126/science.abf5389) (2021)
 
-## Hybrids
-
-* H. Miao, K. Srinivasan and V. Aksyuk, *A Microelectromechanically Controlled Cavity Optomechanical Sensing System*, [New J. Phys. **14**, 075015](https://doi.org/10.1088/1367-2630/14/7/075015) (2012)
-
 ## Ions
 
 * Ch. Schneider, M. Enderlein, T. Huber and T. Schaetz, *Optical Trapping of an Ion*, [Nature Photon. **4**, 772](https://doi.org/10.1038/nphoton.2010.236) (2010)
@@ -102,9 +133,13 @@
 
 * B. D. Cuthbertson, M. E. Tobar, E. N. Ivanov and D. G. Blair, *Parametric Back-action Effects in a High-Q Cryogenic Sapphire Transducer*, [Rev. Sci. Instrum. **67**, 2435](https://doi.org/10.1063/1.1147193) (1996)
 
+* J. D. Teufel *et al*, *Sideband Cooling of Micromechanical Motion to the Quantum Ground State*, [Nature **475**, 359](https://doi.org/10.1038/nature10261) (2011)
+
+* M. Karuza *et al*, *Optomechanically Induced Transparency in a Membrane-in-the-middle Setup at Room Temperature*, [Phys. Rev. A **88**, 013804](https://doi.org/10.1103/PhysRevA.88.013804) (2013)
+
 * T. Bagci, A. Simonsen, S. Schmid, L. G. Villanueva, E. Zeuthen, J. Appel, J. M. Taylor, A. S\o{}rensen, K. Usami, A. Schliesser and E. S. Polzik, *Optical Detection of Radio Waves through a Nanomechanical Transducer*, [Nature **507**, 81](https://doi.org/10.1038/nature13029) (2014)
 
-* R. W. Andrews, R. W. Peterson, T. P. Purdy, K. Cicak, R. W. Simmonds, C. A. Regal and K. W. Lehnert, *Bidirectional and Efficient Conversion between Microwave and Optical Light*, [Nat. Phys. **10**, 321](https://doi.org/10.1038/nphys2911) (2014)
+* R. W. Andrews, R. W. Peterson, T. P. Purdy, K. Cicak, R. W. Simmonds, C. A. Regal and K. W. Lehnert, *Bidirectional and Efficient Conversion between Microwave and Optical Light*, [Nat. Phys. **10**, 321](https://doi.org/10.1038/nphys2911) (Mar, 2014)
 
 ## Mirrors
 
@@ -116,7 +151,7 @@
 
 * S. Groblacher, K. Hammerer, M. R. Vanner and M. Aspelmeyer, *Observation of Strong Coupling between a Micromechanical Resonator and an Optical Cavity Field*, [Nature **460**, 724](https://doi.org/10.1038/nature08171) (2009)
 
-* V. Fiore, Y. Yang, M. C. Kuzyk, R. Barbour, L. Tian and H. Wang, *Storing Optical Information as a Mechanical Excitation in a Silica Optomechanical Resonator*, [Phys. Rev. Lett. **107**, 133601](https://doi.org/10.1103/PhysRevLett.107.133601) (2011)
+* V. Fiore, Y. Yang, M. C. Kuzyk, R. Barbour, L. Tian and H. Wang, *Storing Optical Information as a Mechanical Excitation in a Silica Optomechanical Resonator*, [Phys. Rev. Lett. **107**, 133601](https://doi.org/10.1103/PhysRevLett.107.133601) (Aug, 2011)
 
 * E. D. Lopaeva, I. R. Berchera, I. P. Degiovanni, S. Olivares, G. Brida and M. Genovese, *Experimental Realization of Quantum Illumination*, [Phys. Rev. Lett. **110**, 153603](https://doi.org/10.1103/PhysRevLett.110.153603) (2013)
 
@@ -136,11 +171,27 @@
 
 ## Qubits
 
-* M. F. Gely, M. Kounalakis, C. Dickel, J. Dalle, R. Vatrr, B. Baker, M. D. Jenkins and G. A. Steele, *Observation and Stabilization of Photonic Fock States in a Hot Raio-frequency Resonator*, [Science **363**, 1072](https://doi.org/10.1126/science.aaw3101) (2019)
+* M. D. LaHaye, J. Suh, P. M. Echternach, K. C. Schwab and M. L. Roukes, *Nanomechanical Measurements of a Superconducting Qubit*, [Nature **459**, 960](https://doi.org/10.1038/nature08093) (Jun, 2009)
 
-* S. Langenfeld, S. Welte, L. Hartung, S. Daiss, P. Thomas, O. Morin, E. Distante and G. Rempe, *Quantum Teleportation between Remote Qubit Memories with only a Single Photon as a Resource*, [Phys. Rev. Lett. **126**, 130502](https://doi.org/10.1103/PhysRevLett.126.130502) (2021)
+* Y. Chu, P. Kharel, W. H. Renninger, L. D. Burkhart, L. Frunzio, P. T. Rakich and R. J. Schoelkopf, *Quantum Acoustics with Superconducting Qubits*, [Science **358**, 199](https://doi.org/10.1126/science.aao1511) (Sep, 2017)
+
+* M. F. Gely, M. Kounalakis, C. Dickel, J. Dalle, R. Vatrr, B. Baker, M. D. Jenkins and G. A. Steele, *Observation and Stabilization of Photonic Fock States in a Hot Raio-frequency Resonator*, [Science **363**, 1072](https://doi.org/10.1126/science.aaw3101) (Mar, 2019)
+
+* M. Mirhosseini, A. Sipahigil, M. Kalaee and O. Painter, *Superconducting Qubit to Optical Photon Transduction*, [Nature **588**, 599](https://doi.org/10.1038/s41586-020-3038-6) (Dec, 2020)
+
+* S. Langenfeld, S. Welte, L. Hartung, S. Daiss, P. Thomas, O. Morin, E. Distante and G. Rempe, *Quantum Teleportation between Remote Qubit Memories with only a Single Photon as a Resource*, [Phys. Rev. Lett. **126**, 130502](https://doi.org/10.1103/PhysRevLett.126.130502) (Mar, 2021)
+
+## Resonators
+
+* P. Marin-Palomo *et al*, *Microresonator-based Solitons for Massively Parallel Coherent Optical Communications*, [Nature **546**, 274](https://doi.org/10.1038/nature22387) (2017)
+
+* M. Kues *et al*, *On-chip Generation of High-dimensional Entangled Quantum States and their Coherent Control*, [Nature **546**, 622](https://doi.org/10.1038/nature22986) (2017)
+
+* J. Zhang *et al*, *Optomechanical Dissipative Solitons*, [Nature **600**, 75](https://doi.org/10.1038/s41586-021-04012-1) (2021)
 
 ## Rings
+
+* J. K. Jang, M. Erkintalo, S. G. Murdoch and S. Coen, *Writing and Erasing of Temporal Cavity Solitons by Direct Phase Modulation of the Cavity Driving Field*, [Opt. Lett. **40**, 4755](https://doi.org/10.1364/OL.40.004755) (2015)
 
 * P. Marin-Palomo, J. N. Kemal, M. Karpov, A. Kordts, J. Pfeifle, M. H. P. Pfeiffer, P. Trocha, S. Wolf, V. Brasch, M. H. Anderson, R. Rosenberger, K. Vijayan, W. Freude, T. J. Kippenberg and C. Koos, *Microresonator-based Solitons for Massively Parallel Coherent Optical Communications*, [Nature **546**, 274](https://doi.org/10.1038/nature22387) (2017)
 
@@ -156,14 +207,40 @@
 
 * E. Verhagen, S. Deleglise, S. Weis, A. Schliesser and T. J. Kippenberg, *Quantum-coherent Coupling of a Mechanical Oscillator to an Optical Cavity Mode*, [Nature **482**, 63](https://doi.org/10.1038/nature10787) (2012)
 
-## Views and Perspectives
+## Hybrids
 
-* K. L. Ekinci and M. L. Roukes, *Nanoelectromechanical Systems*, [Rev. Sci. Instrum. **76**, 061101](https://doi.org/10.1063/1.1927327) (2005)
+* H. Miao, K. Srinivasan and V. Aksyuk, *A Microelectromechanically Controlled Cavity Optomechanical Sensing System*, [New J. Phys. **14**, 075015](https://doi.org/10.1088/1367-2630/14/7/075015) (Jul, 2012)
 
-* A. M. Weiner, *Cavity Solitons Come of Age*, [Nature Photon. **11**, 533](https://doi.org/10.1038/nphoton.2017.149) (2017)
+## Others
 
-* L. Midolo, A. Schliesser and A. Fiore, *Nano-opto-electro-mechanical Systems*, [Nat. Nanotechnol. **13**, 11](https://doi.org/10.1038/s41565-017-0039-1) (2018)
+* T. Udem, R. Holzwarth and T. Hansch, *Optical Frequency Metrology*, [Nature **416**, 233](https://doi.org/10.1038/416233a) (2002)
 
-* J. Zhou, B. Huang, Z. Yan and J.-C. G. Bunzli, *Emerging Role of Machine Learning in Light-matter Interaction*, [Light: Sci. Appl. **8**, 84](https://doi.org/10.1038/s41377-019-0192-4) (2019)
+* S. Groblacher, T. Paterek, R. Kaltenbaek, C. Brukner, M. Zukowski, M. Aspelmeyer and A. Zeilinger, *An Experimental Test of Non-local Realism*, [Nature **446**, 871](https://doi.org/10.1038/nature05677) (2007)
 
-* H.-K. Lau and A. A. Clerk, *Macroscale Entanglement and Measurement*, [Science **372**, 570](https://doi.org/10.1126/science.abh3419) (2021)
+* P. Del'Haye, A. Schliesser, O. Arcizet, T. Wilken, R. Holzwarth and T. J. Kippenberg, *Optical Frequency Comb Generation from a Monolithic Microresonator*, [Nature **450**, 1214](https://doi.org/10.1038/nature06401) (2007)
+
+* M. Toiya, H. O. Gonzalez-Ochoa, V. K. Vanag, S. Fraden and I. R. Epstein, *Synchronization of Chemical Micro-oscillators*, [J. Phys. Chem. Lett. **1**, 1241](https://doi.org/10.1021/jz100238u) (2010)
+
+* N. R. Newbury, *Searching for Applications in a Fine-tooth Comb*, [Nature Photon. **5**, 186](https://doi.org/10.1038/nphoton.2011.38) (2011)
+
+* P. Baldi, P. Sadowski and D. Whiteson, *Searching for Exotic Particles in High-energy Physics with Deep Learning*, [Nat. Commun. **5**, 4308](https://doi.org/10.1038/ncomms5308) (2014)
+
+* B. Hensen *et al*, *Loophole-free Bell Inequality Violation using Electron Spins Separated by 1.3 Kilometres*, [Nature **526**, 682](https://doi.org/10.1038/nature15759) (2015)
+
+* M. Genovese, *Real Applications of Quantum Imaging*, [J. Opt. **18**, 073002](https://doi.org/10.1088/2040-8978/18/7/073002) (2016)
+
+* L. Caspani *et al*, *Multifrequency Sources of Quantum Correlated Photon Pairs On-chip: A Path toward Integrated Quantum Frequency Combs*, [Nanophotonics **5**, 351](https://doi.org/10.1515/nanoph-2016-0029) (2016)
+
+* K. Makino *et al*, *Synchronization of Optical Photons for Quantum Information Processing*, [Sci. Adv. **2**, e1501772](https://doi.org/10.1126/sciadv.1501772) (2016)
+
+* P. Roztocki *et al*, *Practical System for the Generation of Pulsed Quantum Frequency Combs*, [Opt. Express **25**, 018940](https://doi.org/10.1364/OE.25.018940) (2017)
+
+* S. K. Lee, N. S. Han, T. H. Yoon and M. Cho, *Frequency Comb Single-photon Interferometry*, [Commun. Phys. **1**, 51](https://doi.org/10.1038/s42005-018-0051-2) (2018)
+
+* J. Preskill, *Quantum Computing in the NISQ Era and Beyond*, [Quantum **2**, 79](https://doi.org/10.22331/q-2018-08-06-79) (2018)
+
+* J. Zhou, B. Huang, Z. Yan and J.-C. G. Bunzli, *Emerging Role of Machine Learning in Light-matter Interaction*, [Light Sci. Appl. **8**, 84](https://doi.org/10.1038/s41377-019-0192-4) (2019)
+
+* F. Arute *et al*, *Quantum Supremacy using a Programmable Superconducting Processor*, [Nature **574**, 505](https://doi.org/10.1038/s41586-019-1666-5) (2019)
+
+* G. Maltese, M. I. Amanti and F. Appas, *Generation and Symmetry Control of Quantum Frequency Combs*, [npj Quantum Inf. **20**, 043013](https://doi.org/10.1038/s41534-019-0237-9) (2020)

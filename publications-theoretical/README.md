@@ -21,9 +21,13 @@
 
 ## Theories and Reviews
 
+* W. Thomson, *On the Mechanical action of Radiant Heat or Light: On the Power of Animated Creatures over Matter: On the Sources available to Man for the production of Mechanical Effect*, [Proc. R. Soc. Edinb. B **3**, 108](https://zapatopi.net/kelvin/papers/on_the_mechanical_action_of_radiant_heat_or_light.html) (1857)
+
 * A. Einstein, *On the Development of our Understanding of the Nature and Composition of Radiation*, [Physik. Z. **10**, 817](https://www.equipes.lps.u-psud.fr/Montambaux/histoire-physique/Einstein-1909-wave-particles.pdf) (1909)
 
 * A. Einstein, B. Podolsky and N. Rosen, *Can Quantum-mechanical Description of Physical Reality be Considered Complete?*, [Phys. Rev. **47**, 777](https://doi.org/10.1103/PhysRev.47.777) (1935)
+
+* J. Williamson, *On the Algebraic Problem Concerning the Normal Forms of Linear Dynamical Systems*, [Am. J. Phys. **58**, 141](https://doi.org/10.2307/2371062) (1936)
 
 * R. J. Glauber, *Coherent and Incoherent States of the Radiation Field*, [Phys. Rev. **131**, 2766](https://doi.org/10.1103/PhysRev.131.2766) (1963)
 
@@ -34,6 +38,8 @@
 * V. B. Braginskii and A. B. Manukin, *Ponderomotive Effects of Electromagnetic Radiation*, [Sov. Phys. JEPT **25**, 653](http://www.jetp.ac.ru/cgi-bin/e/index/e/25/4/p653?a=list) (1967)
 
 * S. J. Freedman and J. F. Clauser, *Experimental Test of Loacal Hidden-Variable Theories*, [Phys. Rev. Lett. **28**, 938](https://doi.org/10.1103/PhysRevLett.28.938) (1972)
+
+* C. M. Caves, *Quantum-Mechanical Radiation-Pressure Fluctuations in an Interferometer*, [Phys. Rev. Lett. **45**, 75](https://doi.org/10.1103/PhysRevLett.45.75) (1980)
 
 * R. Benguria and M. Kac, *Quantum Langevin Equations*, [Phys. Rev. Lett. **46**, 1](https://doi.org/10.1103/PhysRevLett.46.1) (1980)
 
@@ -58,6 +64,8 @@
 * L. Ruby, *Applications of the Mathieu Equation*, [Am. J. Phys. **64**, 39](https://doi.org/10.1119/1.18290) (1996)
 
 * A. Peres, *Separability Criterion for Density Matrices*, [Phys. Rev. Lett. **77**, 1413](https://doi.org/10.1103/PhysRevLett.77.1413) (1996)
+
+* P. Horodecki, *Separability Criterion and Inseparable Mixed States with Positive Partial Transposition*, [Phys. Lett. A **232**, 333](https://10.1016/S0375-9601(97)00416-7) (1997)
 
 * X.-G. Wang and S.-H. Pan, *Quantum Fluctuations of a Mesoscopic RLC Circuit in a Displaced Squeezed Fock State*, [Chin. Phys. Lett. **17**, 171](https://doi.org/10.1088/0256-307X/17/3/006) (2000)
 
@@ -92,6 +100,8 @@
 * S. L. Braunstein and P. van Loock, *Quantum Information with Continuous Variables*, [Rev. Mod. Phys. **77**, 513](https://doi.org/10.1103/RevModPhys.77.513) (2005)
 
 * G. Adesso and F. Illuminati, *Entanglement in Continuous-variable Systems: Recent Advances and Current Perspectives*, [J. Phys. A: Math. Theor. **40**, 7821](https://doi.org/10.1088/1751-8113/40/28/S01) (2007)
+
+* F. Marquardt, J. P. Chen, A. A. Clerk and S. M. Girvin, *Quantum Theory of Cavity-Assisted Sideband Cooling of Mechanical Motion*, [Phys. Rev. Lett. **99**, 093902](https://doi.org/10.1103/PhysRevLett.99.093902) (2007)
 
 * M. Ludwig, B. Kubala and F. Marquardt, *The Optomechanical Instability in the Quantum Regime*, [New J. Phys. **10**, 095013](https://doi.org/10.1088/1367-2630/10/9/095013) (2008)
 
@@ -137,9 +147,11 @@
 
 * P. Rakich and F. Marquardt, *Quantum Theory of Continuum Optomechanics*, [New J. Phys. **20**, 045005](https://doi.org/10.1088/1367-2630/aaac4f) (2018)
 
-* S. Khorasani, *Higher-order Interactions in Quantum Optomechanics: Analysis of Quadratic Terms*, [Sci. Rep. **8**, 16676](https://doi.org/10.1038/s41598-018-35055-6) (2018)
+* E. Zeuthen, A. Schliesser, J. M. Taylor, A. S. Sorensen, *Electrooptomechanical Equivalent Circuits for Quantum Transduction*, [Phys. Rev. Applied **10**, 044036](https://doi.org/10.1103/PhysRevApplied.10.044036) (2018)
 
 * M. Huber, L. Lami, C. Lancien and A. Muller-Hermes, *High-dimensional Entanglement in States with Positive Partial Transposition*, [Phys. Rev. Lett. **121**, 200503](https://doi.org/10.1103/PhysRevLett.121.200503) (2018)
+
+* S. Khorasani, *Higher-order Interactions in Quantum Optomechanics: Analysis of Quadratic Terms*, [Sci. Rep. **8**, 16676](https://doi.org/10.1038/s41598-018-35055-6) (2018)
 
 * M. M. Cunha, A. Fonseca and E. O. Silva, *Tripartite Entanglement: Foundations and Applications*, [Universe **5**, 209](https://doi.org/10.3390/universe5100209) (2019)
 
@@ -154,6 +166,8 @@
 * A. Blais, A. L. Grimsmo, S. M. Girvin, A. Wallraff, *Circuit Quantum Electrodynamics*, [Rev. Mod. Phys. **93**, 025005](https://doi.org/10.1103/RevModPhys.93.025005) (May, 2021)
 
 * S. Borah, B. Sarma, M. Kewming, G. J. Milburn and J. Twamley, *Measurement-Based Feedback Quantum Control with Deep Reinforcement Learning for a Double-Well Nonlinear Potential*, [Phys. Rev. Lett. **127**, 190403](https://doi.org/10.1103/PhysRevLett.127.190403) (Nov, 2021)
+
+* A. K. Sarma and S. Kalita, *Tutorial: Cavity Quantum Optomechanics*, [Indian J. Pure Appl. Phys. **61**, 622](https://doi.org/10.56042/ijpap.v61i7.103) (July, 2023)
 
 ## Numerical
 
@@ -269,6 +283,8 @@
 
 * M. Wang, X.-Y. Lu, Y.-D. Wang, J. Q. You and Y. Wu, *Macroscopic Quantum Entanglement in Modulated Optomechanics*, [Phys. Rev. A **94**, 053807](https://doi.org/10.1103/PhysRevA.94.053807) (2016)
 
+* U. Vool and M. Devoret, *Introduction to Quantum Electromagnetic Circuits*, [Int. J. Circuit Theory Appl. **45**, 897](https://doi.org/10.1002/cta.2359) (2017)
+
 * J. Li, G. Li, S. Zippilli, D. Vitali and T. Zhang, *Enhanced Entanglement of Two Different Mechanical Resonators via Coherent Feedback*, [Phys. Rev. A **95**, 043819](https://doi.org/10.1103/PhysRevA.95.043819) (2017)
 
 * S. Chakraborty and A. K. Sarma, *Enhancing Quantum Correlations in an Optomechanical System via Cross-Kerr Nonlinearity*, [J. Opt. Soc. Am. B **34**, 1503](https://doi.org/10.1364/JOSAB.34.001503) (2017)
@@ -295,13 +311,27 @@
 
 * H.-Y. Fan and X.-Y. Pan, *Quantization and Squeezed State of Two L-C Circuits with Mutual Inductance*, [Chin. Phys. Lett. **15**, 625](https://doi.org/10.1088/0256-307X/15/9/001) (1998)
 
+* K. Jahne, C. Genes, K. Hammerer, M. Wallquist, E. S. Polzik and P. Zoller, *Cavity-assisted Squeezing of a Mechanical Oscillator*. [Phys. Rev. A **79**, 063819](https://doi.org/10.1103/PhysRevA.79.063819) (2009)
+
+* W.-J. Gu, G.-X. Li and Y.-P. Yang, *Generation of Squeezed States in a Movable Mirror via Dissipative Optomechanical Coupling*, [Phys. Rev. A **88**, 013835](https://doi.org/10.1103/PhysRevA.88.013835) (2013)
+
+* A. Kronwald, F. Marquardt and A. A. Clerk, *Arbitrarily Large Steady-state Bosonic Squeezing via Dissipation*, [Phys. Rev. A **88**, 063833](https://doi.org/10.1103/PhysRevA.88.063833) (2013)
+
+* M. Asjad *et al*, *Robust Stationary Mechanical Squeezing in a Kicked Quadratic Optomechanical System*, [Phys. Rev. A **89**, 023849](https://doi.org/10.1103/PhysRevA.89.023849) (2014)
+
 * X.-Y. Lu, J.-Q. Liao, L. Tian and F. Nori, *Steady-state Mechanical Squeezing in an Optomechanical System via Duffing Nonlinearity*, [Phys. Rev. A **91**, 013834](https://doi.org/10.1103/PhysRevA.91.013834) (2015)
 
+* J.-S. Zhang, M.-C. Li and A.-X. Chen, *Enhancing Quadratic Optomechanical Coupling via a Nonlinear Medium and Lasers*, [Phys. Rev. A **99**, 013843](https://doi.org/10.1103/PhysRevA.99.013843) (2019)
+
 * R. Zhang, Y. Fang, Y.-Y. Wang, S. Chesi and Y.-D. Wang, *Strong Mechanical Squeezing in an Unresolved-sideband Optomechanical System*, [Phys. Rev. A **99**, 043805](https://doi.org/10.1103/PhysRevA.99.043805) (2019)
+
+* J.-S. Zhang and A.-X. Chen, *Large Mechanical Squeezing beyond 3dB of Hybrid Atom-optomechanical Systems in a Highly Unresolved Sideband Regime*, [Opt. Express **28**, 9](https://doi.org/10.1364/OE.389588) (2020)
 
 * C.-H. Bai, D.-Y. Wang, S. Zhang, S. Liu and H.-F. Wang, *Strong Mechanical Squeezing in a Standard Optomechanical System by Pump Modulation*, [Phys. Rev. A **101**, 053836](https://doi.org/10.1103/PhysRevA.101.053836) (2020)
 
 * W.-J. Zhang, Y. Zhang, Q. Guo, A-P. Liu, G. Li and T. Zhang, *Strong Mechanical Squeezing and Optomechanical Entanglement in a Dissipative Double-cavity System via Pump Modulation*, [Phys. Rev. A **104**, 053506](https://doi.org/10.1103/PhysRevA.104.053506) (2021)
+
+* W. Qin, A. Miranowicz and F. Nori, *Beating the 3 dB Limit for Intracavity Squeezing and Its Application to Nondemolition Qubit Readout*, [Phys. Rev. Lett. **129**, 123602](https://doi.org/10.1103/PhysRevLett.129.123602) (2022)
 
 ## State Transfer
 
@@ -322,6 +352,8 @@
 * H. Yin, P. G. Mehta, S. P. Meyn and U. V. Shanbhag, *Synchronization of Coupled Oscillators is a Game*, [IEEE Trans. Automat. Contr. **57**, 920](https://doi.org/10.1109/TAC.2011.2168082) (2012)
 
 * C. A. Holmes, C. P. Meaney and G. J. Milburn, *Synchronization of Many Nanomechanical Resonators Coupled via a Common Cavity Field*, [Phys. Rev. E **85**, 066203](https://doi.org/10.1103/PhysRevE.85.066203) (2012)
+
+* M. Ludwig and F. Marquardt, *Quantum Many-body Dynamics in Optomechanical Arrays*, [Phys. Rev. Lett. **111**, 073603](https://doi.org/10.1103/PhysRevLett.111.073603) (2013)
 
 * A. Mari, A. Farace, N. Didier, V. Giovannetti and R. Fazio, *Measures of Quantum Synchronization in Continuous Variable Systems*, [Phys. Rev. Lett. **111**, 103605](https://doi.org/10.1103/PhysRevLett.111.103605) (2013)
 
@@ -358,6 +390,8 @@
 * G.-j. Qiao, H.-x. Gao, H.-d. Liu and X. X. Yi, *Quantum Synchronization of Two Mechanical Oscillators in Coupled Optomechanical Systems with Kerr Nonlinearity*, [Sci. Rep. **8**, 15614](https://doi.org/10.1038/s41598-018-33903-z) (2018)
 
 * M. Koppenhofer and A. Roulet, *Optimal Synchronization Deep in the Quantum Regime: Resource and Fundamental Limit*, [Phys. Rev. A. **99**, 043804](https://doi.org/10.1103/PhysRevA.99.043804) (2019)
+
+* G. Karpat, I. Yalcinkaya and B. Cakmak, *Quantum Synchronization in a Collision Model*, [Phys. Rev. A **100**, 012133](https://doi.org/10.1103/PhysRevA.100.012133) (2019)
 
 * N. Yang, A. Miranowicz, Y.-C. Liu, K. Xia and F. Nori, *Chaotic Synchronization of Two Optical Cavity Modes in Optomechanical Systems*, [Sci. Rep. **9**, 15874](https://doi.org/10.1038/s41598-019-51559-1) (2019)
 
@@ -399,6 +433,8 @@
 
 * Y.-F. Jiao, T.-X. Lu and H. Jing, *Optomechanical Second-order Sidebands and Group Delays in a Kerr Resonator*, [Phys. Rev. A. **97**, 013843](https://doi.org/10.1103/PhysRevA.97.013843) (2018)
 
+* K. Yan, Y. Zhang, Y. Cui and C. Jiang, *Controllable Optical Response in a Quadratically Coupled Optomechanical System with Mechanical Driving*, [Opt. Commun. **475**, 126249](https://doi.org/10.1016/j.optcom.2020.126249) (2020)
+
 * J.-X. Peng, Z. Chen, Q.-Z. Yuan and X.-L. Feng, *Double Optomechanically Induced Transparency in a Laguerre-Gaussian Rovibrational Cavity*, [Phys. Lett. A **384**, 126153](https://doi.org/10.1016/j.physleta.2019.126153) (2020)
 
 * X.-B. Yan, *Optomechanically Induced Transparency and Gain*, [Phys. Rev. A **101**, 043820](https://doi.org/10.1103/PhysRevA.101.043820) (2020)
@@ -419,6 +455,8 @@
 
 * A. Nunnenkamp, K. Borkje, J. G. E. Harris and S. M. Girvin, *Cooling and Squeezing via Quadratic Optomechanical Coupling*, [Phys. Rev. A **82**, 021806](https://doi.org/10.1103/PhysRevA.82.021806) (2010)
 
+* C. P. Meaney, R. H. McKenxie and G. J. Milburn, *Quantum Entanglement Between a Nonlinear Nanomechanical Resonator and a Microwave Field*, [Phys. Rev. E **83**, 056202](https://doi.org/10.1103/PhysRevE.83.056202) (2011)
+
 * G. L. Giorgi, F. Galve, G. Manzano, P. Colet and R. Zambrini, *Quantum Correlation and Mutual Synchronization*, [Phys. Rev. A **85**, 052101](https://doi.org/10.1103/PhysRevA.85.052101) (2012)
 
 * A. Farace and V. Giovannetti, *Enhancing Quantum Effects via Periodic Modulations in Optomechanical Systems*, [Phys. Rev. A **86**, 013820](https://doi.org/10.1103/PhysRevA.86.013820) (2012)
@@ -437,8 +475,6 @@
 
 * W. Li, C..i and H. Song, *Quantum Synchronization and Quantum State Sharing in an Irregular Complex Network*, [Phys. Rev. E **95**, 022204](https://doi.org/10.1103/PhysRevE.95.022204) (2017)
 
-* E. Gil-Santos, M. Labousse, C. Baker, A. Goetschy, W. Hease, C. Gomez, A. Lemaitre, G. Leo, C.  Ciuti and I. Favero, *Light-Mediated Cascaded Locking of Multiple Nano-Optomechanical Oscillators*, [Phys. Rev. Lett. **118**, 063605](https://doi.org/10.1103/PhysRevLett.118.063605) (2017)
-
 * D. Witthaut, S. Wimberger, R. Burioni and M. Timme, *Classical Synchronization indicates Persistent Entanglement in Isolated Quantum Systems*, [Nat. Commun. **8**, 14829](https://doi.org/10.1038/ncomms14829) (2017)
 
 * X. Yang, Z. Yin and M. Xiao, *Optomechanically Induced Entanglement*, [Phys. Rev. A. **99**, 013811](https://doi.org/10.1103/PhysRevA.99.013811) (2018)
@@ -456,6 +492,10 @@
 * M. Cattaneo, G. L. Giorgi, S. Maniscalco, G. S. Paraoanu and R. Zambrini, *Bath-Induced Collective Phenomena on Superconducting Qubits: Synchronization, Subradiance, and Entanglement Generation*, [Ann. Phys. **533**, 2100038](https://doi.org/10.1002/andp.202100038) (2021)
 
 * D.-G. Lai, W. Qin, B.-P. Hou, A. Miranowicz and F. Nori, *Significant Enhancement in Refrigeration and Entanglement in Auxiliary-cavity-assisted Optomechanical Systems*, [Phys. Rev. A **104**, 043521](https://doi.org/10.1103/PhysRevA.104.043521) (2021)
+
+* S. Kalita, S. Shah and A. K. Sarma, *Significant Optoelectrical Entanglement and Mechanical Squeezing in a Multimodulated Optoelectromechanical System*, [Phys. Rev. A **106**, 043501](https://doi.org/10.1103/PhysRevA.106.043501) (2022)
+
+* P. Banerjee, S. Kalita and A. K. Sarma, *Robust Mechanical Squeezing beyond 3 dB in a Quadratically Coupled Optomechanical System*, [J. Opt. Soc. Am. B **40**, 1398](https://doi.org/10.1364/JOSAB.483944) (2023)
 
 ## Others
 

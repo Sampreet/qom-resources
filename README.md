@@ -1,6 +1,10 @@
 # Quantum Optomechanics Resources
 
+[![Last Commit](https://img.shields.io/github/last-commit/sampreet/qom-resources?style=for-the-badge)](https://github.com/sampreet/qom-resources)
+
 > A comprehensive collection of resources for research enthusiasts in quantum optomechanics
+
+
 
 ## Contents
 

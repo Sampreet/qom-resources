@@ -35,9 +35,13 @@
 
 * R. Valivarthi *et al*, *Teleportation Systems Toward a Quantum Internet*, [PRX Quantum **1**, 020317](https://doi.org/10.1103/PRXQuantum.1.020317) (2020)
 
+* S. Barzanjeh, A. Xuereb, S. Groblacher, M. Paternostro, C. A. Regal and E. M. Weig, *Optomechanics for Quantum Technologies*, [Nat. Phys. **18**, 15](https://doi.org/10.1038/s41567-021-01402-0) (2021)
+
 * H.-K. Lau and A. A. Clerk, *Macroscale Entanglement and Measurement*, [Science **372**, 570](https://doi.org/10.1126/science.abh3419) (2021)
 
 ## Atoms
+
+* D. M. Hope, H.-A. Bachor, P. J. Manson, D. E. McClelland and P. T. H. Fisk, *Observation of Quadrature Squeezing in a Cavity-atom System*, [Phys. Rev. A **46**, R1181](https://doi.org/10.1103/PhysRevA.46.R1181) (1992)
 
 * A. W. Laskar, P. Adhikary, S. Mondal, P. Katiyar, S. Vinjanampathy and S. Ghosh, *Observation of Quantum Phase Synchronization in Spin-1 Atoms*, [Phys. Rev. Lett. **125**, 013601](https://doi.org/10.1103/PhysRevLett.125.013601) (2020)
 
@@ -85,9 +89,9 @@
 
 * A. H. Safavi-Naeini, T. P. Mayer Alegre, J. Chan, M. Eichenfield, M. Wigner, Q. Lin, J. T. Hill, D. E. Chang and O. Painter, *Electromagnetically Induced Transparency and Slow Light in Optomechanics*, [Nature **472**, 69](https://doi.org/10.1038/nature09933) (2011)
 
-* M. Ludwig and F. Marquardt, *Quantum Many-body Dynamics in Optomechanical Arrays*, [Phys. Rev. Lett. **111**, 073603](https://doi.org/10.1103/PhysRevLett.111.073603) (2013)
-
 * S. M. Meenehan, J. D. Cohen, S. Groblacher, J. T. Hill, A. H. Safavi-Naeini, M. Aspelmeyer and O. Painter, *Silicon Optomechanical Crystal Resonator at Millikelvin Temperatures*, [Phys. Rev. A **90**, 011803](https://doi.org/10.1103/PhysRevA.90.011803) (2014)
+
+* R. Riedinger *et al*, *Remote Quantum Entanglement between two Micromechanical Oscillators*, [Nature **556**, 473](https://doi.org/10.1038/s41586-018-0036-z) (2018)
 
 * M. Forsch, R. Stockill, A. Wallucks, I. Marinkovic, C. Gartner, R. A. Norte, F. v. Otten, A. Fiore, K. Srinivasan and S. Groblacher, *Microwave-to-optics Conversion using a Mechanical Oscillator in its Quantum Ground State*, [Nat. Phys. **16**, 69](https://doi.org/10.1038/s41567-019-0673-7) (2020)
 
@@ -100,6 +104,8 @@
 * K. C. Balram, M. Davanco, J. Y. Lim, J. D. Song and Kartik Srinivasan, *Moving Boundary and Photoelastic Coupling in GaAs Optomechanical Resonator*, [Optica **1**, 2334](https://doi.org/10.1364/OPTICA.1.000414) (2014)
 
 * M. Zhang, S. Shah, J. Cardenas and M. Lipson, *Synchronization and Phase Noise Reduction in Micromechanical Oscillator Arrays Coupled through Light*, [Phys. Rev. Lett. **115**, 163902](https://doi.org/10.1103/PhysRevLett.115.163902) (2015)
+
+* E. Gil-Santos, M. Labousse, C. Baker, A. Goetschy, W. Hease, C. Gomez, A. Lemaitre, G. Leo, C.  Ciuti and I. Favero, *Light-Mediated Cascaded Locking of Multiple Nano-Optomechanical Oscillators*, [Phys. Rev. Lett. **118**, 063605](https://doi.org/10.1103/PhysRevLett.118.063605) (2017)
 
 * P. E. Allain, B. Guha, C. Baker, D. Parrain, A. Lemaitre, G. Leo and I. Favero, *Electro-optomechanical Modulation Instability in a Semiconductor Resonator*, [Phys. Rev. Lett. **126**, 243901](https://doi.org/10.1103/PhysRevLett.126.243901) (2021)
 
@@ -116,6 +122,8 @@
 * E. E. Wollman, C. U. Lei, A. J. Weinstein, J. Suh, A. Kronwald, F. Marquardt, A. A. Clerk and K. C. Schwab, *Quantum Squeezing of Motion in a Mechanical Resonator*, [Science **349**, 952](https://doi.org/0.1126/science.aac5138) (2015)
 
 * J.-M. Pirkkalainen, E. Damskagg, M. Brandt, F. Massel and M. A. Sillanpaa, *Squeezing of Quantum Noise of Motion in a Micromechanical Resonator*, [Phys. Rev. Lett. **115**, 243601](https://doi.org/10.1103/PhysRevLett.115.243601) (2015)
+
+* C. U. Lei *et al*, *Quantum Nondemolition Measurement of a Quantum Squeezed State Beyond the 3 dB Limit*, [Phys. Rev. Lett. **117**, 100801](https://doi.org/10.1103/PhysRevLett.117.100801) (2016)
 
 * L.D. Toth, N. R. Bernier, A. Nunnenkamp, A. K. Feofanov and T. J. Kippenberg, *A Dissipative Quantum Reservoir for Microwave Light using a Mechanical Oscillator*, [Nat. Phys. **13**, 787](https://doi.org/10.1038/nphys4121) (2017)
 
@@ -141,6 +149,10 @@
 
 * R. W. Andrews, R. W. Peterson, T. P. Purdy, K. Cicak, R. W. Simmonds, C. A. Regal and K. W. Lehnert, *Bidirectional and Efficient Conversion between Microwave and Optical Light*, [Nat. Phys. **10**, 321](https://doi.org/10.1038/nphys2911) (Mar, 2014)
 
+* S. Sonar *et al*, *Strong Thermomechanical Squeezing in a Far-detuned Membrane-in-the-middle System*, [Phys. Rev. A **98**, 013804](https://doi.org/10.1103/PhysRevA.98.013804) (2018)
+
+* J. Chen, M. Rossi, D. Mason and A. Schliesser, *Entanglement of Propagating Optical Modes via a Mechanical Interface*, [Nat. Commun. **11**, 943](https://doi.org/10.1038/s41467-020-14768-1) (2020)
+
 ## Mirrors
 
 * V. B. Braginskii, A. B. Manukin and M. Yu. Tikhonov, *Investigation of Dissipative Ponderomotive Effects of Electromagnetic Radiation*, [J. Exp. Theor. Phys. **31**, 829](http://www.jetp.ac.ru/cgi-bin/e/index/e/31/5/p829?a=list) (1969)
@@ -151,17 +163,23 @@
 
 * S. Groblacher, K. Hammerer, M. R. Vanner and M. Aspelmeyer, *Observation of Strong Coupling between a Micromechanical Resonator and an Optical Cavity Field*, [Nature **460**, 724](https://doi.org/10.1038/nature08171) (2009)
 
+* T. Accadia *et al*, *Performance of the Virgo Interferometer Longitudinal Control System during the Second Science Run*, [Astropart. Phys. **34**, 521](https://doi.org/10.1016/j.astropartphys.2010.11.006) (2011)
+
 * V. Fiore, Y. Yang, M. C. Kuzyk, R. Barbour, L. Tian and H. Wang, *Storing Optical Information as a Mechanical Excitation in a Silica Optomechanical Resonator*, [Phys. Rev. Lett. **107**, 133601](https://doi.org/10.1103/PhysRevLett.107.133601) (Aug, 2011)
 
 * E. D. Lopaeva, I. R. Berchera, I. P. Degiovanni, S. Olivares, G. Brida and M. Genovese, *Experimental Realization of Quantum Illumination*, [Phys. Rev. Lett. **110**, 153603](https://doi.org/10.1103/PhysRevLett.110.153603) (2013)
 
 * E. Obrzud, S. Lecomte, T. Herr, *Temporal Solitons in Microresonators driven by Optical Pulses*, [Nature Photon. **11**, 600](https://doi.org/10.1038/nphoton.2017.140) (2017)
 
+* C. F. Ockeloen-Korppi *et al*, *Stabilized Entanglement of Massive Mechanical Oscillators*, [Nature **556**, 478](https://doi.org/10.1038/s41586-018-0038-x) (2018)
+
 * M. Tse *et al*, *Quantum-Enhanced Advanced LIGO Detectors in the Era of Gravitational-Wave Astronomy*, [Phys. Rev. Lett. **123**, 231107](https://doi.org/10.1103/PhysRevLett.123.231107) (2019)
 
 * F. Acernese *et al*, *Increasing the Astrophysical Reach of the Advanced Virgo Detector via the Application of Squeezed Vacuum States of Light*, [Phys. Rev. Lett. **123**, 231108](https://doi.org/10.1103/PhysRevLett.123.231108) (2019)
 
 ## Particles
+
+* A. Ashkin, *Acceleration and Trapping of Particles by Radiation Pressure*, [Phys. Rev. Lett. **24**, 156](https://doi.org/10.1103/PhysRevLett.24.156) (1970)
 
 * C. Dong, V. Fiore, M. C. Kuzyk and H. Wang, *Transient Optomechanically Induced Transparency in a Silica Microsphere*, [Phys. Rev. A **87**, 055802](https://doi.org/10.1103/PhysRevA.87.055802) (2013)
 
@@ -209,7 +227,11 @@
 
 ## Hybrids
 
+* P. Rabl, A. Shnirman and P. Zoller, *Generation of Squeezed States of Nanomechanical Resonators by Reservoir Engineering*, [Phys. Rev. B **70**, 205304](https://doi.org/10.1103/PhysRevB.70.205304) (2004)
+
 * H. Miao, K. Srinivasan and V. Aksyuk, *A Microelectromechanically Controlled Cavity Optomechanical Sensing System*, [New J. Phys. **14**, 075015](https://doi.org/10.1088/1367-2630/14/7/075015) (Jul, 2012)
+
+* F. Wei *et al*, *Cavity Electro-optic Circuit for Microwave-to-optical Conversion in the Quantum Ground State*, [Phys. Rev. A **103**, 053504](https://doi.org/10.1103/PhysRevA.103.053504) (2021)
 
 ## Others
 

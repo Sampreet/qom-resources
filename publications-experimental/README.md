@@ -7,6 +7,7 @@
 * [Views and Perspectives](#views-and-perspectives)
 * [Atoms](#atoms)
 * [Beams](#beams)
+* [Bose-Einstein Condensates](#Bose-Einstein-condensates)
 * [Cantilevers](#cantilevers)
 * [Cooper Pairs](#cooper-pairs)
 * [Crystals](#crystals)
@@ -68,6 +69,10 @@
 * D. Bothner, S. Yanai, A. Iniguuz-Rabago, M. Yaun, Y. M. Blanter and G. A . Steele, *Cavity Electromechanics with Parametric Mechanical Driving*, [Nat. Commun. **11**, 1589](https://doi.org/10.1038/s41467-020-15389-4) (2020)
 
 * N. Fiaschi, B. Hensen, A. Wallucks, R. Benevides, J. Li, T. P. M. Alegre and S. Groblacher, *Optomechanical Quantum Teleportation*, [Nature Photon. **15**, 817](https://doi.org/10.1038/s41566-021-00866-z) (2021)
+
+## Bose-Einstein Condensates
+
+* F. Brennecke, S. Ritter, T. Donner and T. Esslinger, *Cavity Optomechanics with a Bose-Einstein Condensate*, [Science **322**, 235](https://doi.org/10.1126/science.1163218) (2008)
 
 ## Cantilevers
 

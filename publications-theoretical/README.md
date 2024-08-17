@@ -165,6 +165,8 @@
 
 * A. Blais, A. L. Grimsmo, S. M. Girvin, A. Wallraff, *Circuit Quantum Electrodynamics*, [Rev. Mod. Phys. **93**, 025005](https://doi.org/10.1103/RevModPhys.93.025005) (May, 2021)
 
+* P. Kumar, T. Biswas, K. Feliz, R. Kanamoto, M.-S. Chang, A. K. Jha and M. Bhattacharya, *Cavity Optomechanical Sensing and Manipulation of an Atomic Persistent Current*, [Phys. Rev. Lett. **127**, 113601](https://doi.org/10.1103/PhysRevLett.127.113601) (Sep, 2021)
+
 * S. Borah, B. Sarma, M. Kewming, G. J. Milburn and J. Twamley, *Measurement-Based Feedback Quantum Control with Deep Reinforcement Learning for a Double-Well Nonlinear Potential*, [Phys. Rev. Lett. **127**, 190403](https://doi.org/10.1103/PhysRevLett.127.190403) (Nov, 2021)
 
 * A. K. Sarma and S. Kalita, *Tutorial: Cavity Quantum Optomechanics*, [Indian J. Pure Appl. Phys. **61**, 622](https://doi.org/10.56042/ijpap.v61i7.103) (July, 2023)
@@ -413,6 +415,8 @@
 
 * S. Kalita, S. Chakraborty and A. K. Sarma, *Switching of Quantum Synchronization in Coupled Optomechanical Oscillators*, [J. Phys. Commun. **5**, 115006](https://doi.org/10.1088/2399-6528/ac3204) (2021)
 
+* R. Nongthombam, S. Kalita and A. K. Sarma, *Synchronization of a Superconducting Qubit to an Optical Field mediated by a Mechanical Resonator*, [Phys. Rev. A **107**, 013528](https://doi.org/10.1103/PhysRevA.107.013528) (2023)
+
 ## Transparency
 
 * G. S. Agarwal and S. Huang, *Electromagnetically Induced Transparency in Mechanical Effects of Light*, [Phys. Rev. A. **81**, 041803](https://doi.org/10.1103/PhysRevA.81.041803) (2010)
@@ -444,6 +448,8 @@
 * Y.-N. Zhao, T. Wang, D.-Y. Wang, X. Han, S. Zhang and H.-F. Wang, *Optical Amplification and Fast-Slow Light in a Three-Mode Cavity Optomechanical System without Rotating Wave Approximation*, [Photonics **8**, 384](https://doi.org/10.3390/photonics8090384) (2021)
 
 * S. Jalil, M. Abbas, A. Y. Tahir and Ziauddin, *Optomechanically Induced Transparency and Fano Resonance in a Four-mirror Cavity*, [Phys. Scr. **96**, 125112](https://doi.org/10.1088/1402-4896/ac2fc3) (2021)
+
+* S. Kalita, P. Kumar, R. Kanamoto, M. Bhattacharya and A. K. Sarma, *Pump-probe Cavity Optomechanics with a Rotating Atomic Superfluid in a Ring*, [Phys. Rev. A **107**, 013525](https://doi.org/10.1103/PhysRevA.107.013525) (Jan, 2023)
 
 ## Multiple
 
